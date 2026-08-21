@@ -1,0 +1,5 @@
+# After you install, pin the exact version you used so anyone opening the
+# .rrd uses a matching SDK:   pip freeze | grep rerun   ->   paste it here.
+rerun-sdk>=0.21
+numpy
+opencv-python   # only needed for the video fallback path

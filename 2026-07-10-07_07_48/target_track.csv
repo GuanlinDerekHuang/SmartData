@@ -1,0 +1,3826 @@
+frame_idx,label,cx,cy
+0,football,136.09,182.63
+0,water bottle,269.28,160.24
+0,vitamin bottle,178.69,288.79
+1,football,136.30,182.49
+1,water bottle,269.31,159.91
+1,vitamin bottle,179.09,288.76
+2,football,136.48,182.30
+2,water bottle,269.58,159.44
+2,vitamin bottle,179.55,288.48
+3,football,136.12,181.88
+3,water bottle,269.36,158.77
+3,vitamin bottle,179.37,288.08
+4,football,134.22,180.77
+4,water bottle,267.88,157.97
+4,vitamin bottle,178.23,287.31
+5,football,134.61,182.26
+5,water bottle,266.32,157.29
+5,vitamin bottle,177.21,286.64
+6,football,134.17,181.90
+6,water bottle,265.56,156.82
+6,vitamin bottle,176.75,286.12
+7,football,134.57,181.77
+7,water bottle,266.25,156.41
+7,vitamin bottle,177.24,286.01
+8,football,134.96,181.88
+8,water bottle,266.62,156.45
+8,vitamin bottle,177.86,286.30
+9,football,135.36,181.99
+9,water bottle,267.19,156.63
+9,vitamin bottle,178.36,286.60
+10,football,135.87,182.14
+10,water bottle,267.70,156.67
+10,vitamin bottle,178.81,286.73
+11,football,135.94,182.84
+11,water bottle,267.82,157.71
+11,vitamin bottle,178.84,287.68
+12,football,136.02,183.20
+12,water bottle,268.02,158.42
+12,vitamin bottle,178.92,288.21
+13,football,136.98,183.17
+13,water bottle,269.23,158.67
+13,vitamin bottle,179.59,288.37
+14,football,137.68,183.15
+14,water bottle,270.14,159.04
+14,vitamin bottle,180.15,288.66
+15,football,137.55,182.99
+15,water bottle,270.23,158.89
+15,vitamin bottle,180.14,288.59
+16,football,137.56,182.41
+16,water bottle,270.31,158.29
+16,vitamin bottle,180.05,288.18
+17,football,138.36,180.69
+17,water bottle,271.65,156.52
+17,vitamin bottle,180.77,286.86
+18,football,139.61,178.79
+18,water bottle,273.65,154.36
+18,vitamin bottle,181.88,285.20
+19,football,140.56,176.46
+19,water bottle,275.30,151.51
+19,vitamin bottle,182.91,283.32
+20,football,141.02,175.09
+20,water bottle,277.01,149.43
+20,vitamin bottle,183.57,282.23
+21,football,141.80,173.57
+21,water bottle,278.47,147.47
+21,vitamin bottle,184.33,281.14
+22,football,142.99,171.72
+22,water bottle,279.93,145.36
+22,vitamin bottle,185.59,279.99
+23,football,143.47,169.28
+23,water bottle,281.00,142.75
+23,vitamin bottle,186.43,278.33
+24,football,143.91,167.05
+24,water bottle,281.99,140.34
+24,vitamin bottle,186.91,276.96
+25,football,144.97,165.22
+25,water bottle,283.53,138.72
+25,vitamin bottle,188.06,276.30
+26,football,146.71,164.82
+26,water bottle,285.54,138.03
+26,vitamin bottle,189.96,276.81
+27,football,147.27,166.93
+27,water bottle,286.48,140.05
+27,vitamin bottle,191.41,279.83
+28,football,147.10,165.78
+28,water bottle,286.71,138.86
+28,vitamin bottle,191.40,279.50
+29,football,145.60,161.50
+29,water bottle,286.03,133.95
+29,vitamin bottle,189.52,275.84
+30,football,142.87,158.03
+30,water bottle,284.37,130.00
+30,vitamin bottle,186.86,273.21
+31,football,139.38,157.09
+31,water bottle,282.66,129.03
+31,vitamin bottle,183.85,272.88
+32,football,138.53,155.66
+32,water bottle,282.54,128.10
+32,vitamin bottle,182.36,272.76
+33,football,141.03,152.61
+33,water bottle,284.74,125.78
+33,vitamin bottle,184.35,272.01
+34,football,143.35,149.95
+34,water bottle,286.98,124.11
+34,vitamin bottle,187.51,272.10
+35,football,145.56,148.98
+35,water bottle,288.72,123.30
+35,vitamin bottle,190.14,273.36
+36,football,146.07,147.44
+36,water bottle,289.43,122.45
+36,vitamin bottle,191.23,274.11
+37,football,146.10,144.37
+37,water bottle,289.91,119.87
+37,vitamin bottle,192.19,273.77
+38,football,145.29,140.70
+38,water bottle,289.77,115.89
+38,vitamin bottle,192.30,272.47
+39,football,142.75,139.70
+39,water bottle,288.95,113.93
+39,vitamin bottle,190.36,273.05
+40,football,141.06,140.61
+40,water bottle,288.39,114.32
+40,vitamin bottle,189.28,275.54
+41,football,140.14,136.88
+41,water bottle,288.23,111.05
+41,vitamin bottle,189.26,275.12
+42,football,137.96,133.92
+42,water bottle,287.54,109.44
+42,vitamin bottle,187.01,275.85
+43,football,135.50,130.31
+43,water bottle,286.94,106.46
+43,vitamin bottle,185.81,275.74
+44,football,132.52,125.82
+44,water bottle,286.15,102.36
+44,vitamin bottle,184.28,275.03
+45,football,128.99,122.31
+45,water bottle,285.23,99.41
+45,vitamin bottle,182.21,275.26
+46,football,124.15,116.92
+46,water bottle,283.77,94.62
+46,vitamin bottle,179.39,274.24
+47,football,119.18,113.66
+47,water bottle,282.24,91.73
+47,vitamin bottle,176.57,274.73
+48,football,116.39,110.63
+48,water bottle,281.20,89.67
+48,vitamin bottle,174.98,275.92
+49,football,114.01,105.76
+49,water bottle,280.16,86.60
+49,vitamin bottle,175.28,276.01
+50,football,112.23,101.44
+50,water bottle,279.37,84.38
+50,vitamin bottle,175.06,276.68
+51,football,109.99,97.53
+51,water bottle,278.40,82.71
+51,vitamin bottle,174.86,277.82
+52,football,107.68,94.48
+52,water bottle,277.34,81.29
+52,vitamin bottle,174.57,279.60
+53,football,105.32,92.80
+53,water bottle,276.60,81.19
+53,vitamin bottle,173.40,282.01
+54,football,100.53,87.49
+54,water bottle,274.41,79.22
+54,vitamin bottle,170.96,282.38
+55,football,94.77,83.01
+55,water bottle,271.64,77.03
+55,vitamin bottle,168.01,282.61
+56,football,90.22,82.48
+56,water bottle,270.22,77.38
+56,vitamin bottle,164.66,285.64
+57,football,85.54,78.17
+57,water bottle,268.17,75.96
+57,vitamin bottle,161.30,286.48
+58,football,80.71,73.09
+58,water bottle,265.94,73.95
+58,vitamin bottle,157.77,286.44
+59,football,75.92,71.51
+59,water bottle,264.33,73.75
+59,vitamin bottle,153.62,288.60
+60,football,71.72,71.18
+60,water bottle,263.09,74.38
+60,vitamin bottle,149.86,291.91
+61,football,67.57,69.80
+61,water bottle,261.71,73.95
+61,vitamin bottle,146.84,293.97
+62,football,61.59,68.58
+62,water bottle,258.58,72.62
+62,vitamin bottle,142.69,294.68
+63,football,56.49,69.01
+63,water bottle,256.10,71.89
+63,vitamin bottle,138.88,296.11
+64,football,54.19,69.55
+64,water bottle,253.93,70.68
+64,vitamin bottle,136.30,296.70
+65,football,52.92,69.08
+65,water bottle,251.73,67.96
+65,vitamin bottle,134.53,295.52
+66,football,52.04,69.50
+66,water bottle,249.64,65.99
+66,vitamin bottle,132.74,294.64
+67,football,50.96,69.92
+67,water bottle,247.93,64.72
+67,vitamin bottle,130.96,294.22
+68,football,50.25,70.11
+68,water bottle,247.14,64.43
+68,vitamin bottle,129.82,294.93
+69,football,49.95,70.48
+69,water bottle,247.48,65.15
+69,vitamin bottle,128.66,296.70
+70,football,50.22,71.50
+70,water bottle,247.77,65.31
+70,vitamin bottle,128.31,297.75
+71,football,51.14,72.31
+71,water bottle,249.40,66.07
+71,vitamin bottle,128.66,299.55
+72,football,52.06,72.91
+72,water bottle,250.37,66.17
+72,vitamin bottle,129.13,300.49
+73,football,52.79,72.86
+73,water bottle,250.92,65.95
+73,vitamin bottle,129.83,300.93
+74,football,52.93,73.44
+74,water bottle,251.77,66.87
+74,vitamin bottle,129.80,302.50
+75,football,53.00,73.41
+75,water bottle,251.92,66.91
+75,vitamin bottle,129.72,302.80
+76,football,53.26,73.28
+76,water bottle,251.71,66.32
+76,vitamin bottle,129.70,302.35
+77,football,53.76,73.70
+77,water bottle,251.34,65.27
+77,vitamin bottle,129.76,301.38
+78,football,54.11,73.54
+78,water bottle,251.08,63.75
+78,vitamin bottle,130.49,300.18
+79,football,53.81,73.07
+79,water bottle,250.22,63.05
+79,vitamin bottle,130.48,299.68
+80,football,53.91,73.43
+80,water bottle,250.52,63.55
+80,vitamin bottle,130.49,300.64
+81,football,54.46,72.50
+81,water bottle,250.65,62.83
+81,vitamin bottle,131.51,299.86
+82,football,54.96,72.73
+82,water bottle,251.13,63.11
+82,vitamin bottle,132.29,301.64
+83,football,55.31,74.54
+83,water bottle,252.73,65.44
+83,vitamin bottle,132.92,306.12
+84,football,56.44,74.84
+84,water bottle,253.99,66.15
+84,vitamin bottle,134.86,305.80
+85,football,57.24,74.88
+85,water bottle,254.86,66.47
+85,vitamin bottle,136.17,306.24
+86,football,58.15,74.71
+86,water bottle,255.61,66.56
+86,vitamin bottle,137.75,306.70
+87,football,58.62,74.24
+87,water bottle,255.79,66.23
+87,vitamin bottle,138.56,307.30
+88,football,59.03,73.90
+88,water bottle,255.84,65.92
+88,vitamin bottle,139.14,307.72
+89,football,59.27,73.90
+89,water bottle,256.11,65.96
+89,vitamin bottle,139.77,308.11
+90,football,59.11,73.77
+90,water bottle,255.66,65.62
+90,vitamin bottle,139.83,308.26
+91,football,58.92,74.09
+91,water bottle,255.61,65.80
+91,vitamin bottle,139.90,308.29
+92,football,58.89,74.14
+92,water bottle,255.79,65.99
+92,vitamin bottle,139.72,308.19
+93,football,59.23,74.02
+93,water bottle,256.55,66.43
+93,vitamin bottle,139.90,308.36
+94,football,59.47,74.05
+94,water bottle,256.98,66.62
+94,vitamin bottle,140.23,309.28
+95,football,59.26,74.17
+95,water bottle,256.83,66.50
+95,vitamin bottle,140.46,310.06
+96,football,58.91,74.13
+96,water bottle,256.46,66.19
+96,vitamin bottle,140.30,311.06
+97,football,57.70,73.92
+97,water bottle,255.02,65.25
+97,vitamin bottle,139.57,312.01
+98,football,56.40,74.06
+98,water bottle,253.66,64.81
+98,vitamin bottle,138.96,312.21
+99,football,55.65,74.12
+99,water bottle,252.96,64.68
+99,vitamin bottle,138.17,312.81
+100,football,55.27,73.56
+100,water bottle,252.37,63.88
+100,vitamin bottle,136.67,314.54
+101,football,55.00,73.55
+101,water bottle,251.95,63.59
+101,vitamin bottle,135.52,315.72
+102,football,55.01,73.63
+102,water bottle,252.03,63.72
+102,vitamin bottle,135.14,316.15
+103,football,54.64,73.58
+103,water bottle,251.70,63.44
+103,vitamin bottle,134.52,316.52
+104,football,54.17,73.72
+104,water bottle,251.19,63.35
+104,vitamin bottle,134.61,316.41
+105,football,54.00,73.65
+105,water bottle,251.08,63.36
+105,vitamin bottle,134.69,316.41
+106,football,53.66,73.65
+106,water bottle,250.81,63.32
+106,vitamin bottle,134.33,316.76
+107,football,53.40,73.68
+107,water bottle,250.44,63.26
+107,vitamin bottle,134.50,316.73
+108,football,53.21,73.70
+108,water bottle,250.31,63.37
+108,vitamin bottle,134.43,316.49
+109,football,53.24,73.67
+109,water bottle,250.41,63.48
+109,vitamin bottle,134.43,316.42
+110,football,53.17,73.71
+110,water bottle,250.39,63.52
+110,vitamin bottle,134.54,316.40
+111,football,53.25,73.60
+111,water bottle,250.52,63.75
+111,vitamin bottle,134.32,316.44
+112,football,53.73,73.38
+112,water bottle,250.87,63.82
+112,vitamin bottle,133.57,316.78
+113,football,54.00,73.45
+113,water bottle,250.92,63.83
+113,vitamin bottle,133.02,317.00
+114,football,53.78,73.84
+114,water bottle,250.64,64.27
+114,vitamin bottle,132.63,316.47
+115,football,52.55,73.94
+115,water bottle,249.04,64.30
+115,vitamin bottle,134.07,314.61
+116,football,50.76,74.35
+116,water bottle,246.32,63.88
+116,vitamin bottle,135.49,312.19
+117,football,49.95,74.25
+117,water bottle,243.91,63.03
+117,vitamin bottle,135.54,311.42
+118,football,49.25,73.54
+118,water bottle,241.12,61.38
+118,vitamin bottle,135.28,312.46
+119,football,48.92,73.47
+119,water bottle,239.08,60.64
+119,vitamin bottle,135.35,312.46
+120,football,49.21,73.31
+120,water bottle,238.28,60.33
+120,vitamin bottle,136.73,311.47
+121,football,49.13,72.43
+121,water bottle,236.76,59.24
+121,vitamin bottle,138.42,312.09
+122,football,49.18,71.26
+122,water bottle,235.98,58.15
+122,vitamin bottle,140.37,314.47
+123,football,50.35,69.68
+123,water bottle,237.62,57.50
+123,vitamin bottle,141.41,316.30
+124,football,51.49,68.60
+124,water bottle,239.84,57.41
+124,vitamin bottle,140.67,318.12
+125,football,52.73,68.57
+125,water bottle,242.80,58.36
+125,vitamin bottle,140.15,319.44
+126,football,53.36,68.94
+126,water bottle,245.22,59.87
+126,vitamin bottle,139.13,319.03
+127,football,53.10,69.14
+127,water bottle,245.78,60.68
+127,vitamin bottle,137.85,317.33
+128,football,52.68,68.88
+128,water bottle,245.57,60.61
+128,vitamin bottle,136.56,318.24
+129,football,51.57,68.47
+129,water bottle,244.44,60.07
+129,vitamin bottle,133.53,319.87
+130,football,50.53,67.85
+130,water bottle,243.08,59.33
+130,vitamin bottle,130.77,321.54
+131,football,49.48,67.48
+131,water bottle,242.03,58.94
+131,vitamin bottle,127.24,324.02
+132,football,47.93,67.21
+132,water bottle,240.79,58.83
+132,vitamin bottle,123.85,323.47
+133,football,46.73,67.16
+133,water bottle,240.18,59.38
+133,vitamin bottle,121.17,322.61
+134,football,45.71,66.34
+134,water bottle,240.06,59.42
+134,vitamin bottle,117.04,326.13
+135,football,44.39,65.37
+135,water bottle,239.81,59.14
+135,vitamin bottle,110.85,330.60
+136,football,42.50,65.11
+136,water bottle,238.72,59.34
+136,vitamin bottle,106.08,327.91
+137,football,40.99,65.01
+137,water bottle,237.62,59.51
+137,vitamin bottle,104.77,323.11
+138,football,39.71,64.08
+138,water bottle,236.56,58.92
+138,vitamin bottle,104.53,317.74
+139,football,39.34,64.06
+139,water bottle,236.38,58.64
+139,vitamin bottle,106.60,315.51
+140,football,39.09,63.51
+140,water bottle,235.62,57.75
+140,vitamin bottle,105.22,315.83
+141,football,40.22,63.99
+141,water bottle,236.97,58.06
+141,vitamin bottle,105.13,315.99
+142,football,41.38,64.19
+142,water bottle,238.44,58.38
+142,vitamin bottle,105.01,316.06
+143,football,42.55,64.14
+143,water bottle,239.92,58.39
+143,vitamin bottle,104.82,316.07
+144,football,44.09,64.11
+144,water bottle,241.98,58.83
+144,vitamin bottle,104.61,316.13
+145,football,45.20,64.23
+145,water bottle,243.65,59.42
+145,vitamin bottle,104.63,316.17
+146,football,45.86,64.19
+146,water bottle,244.92,59.88
+146,vitamin bottle,104.70,316.14
+147,football,46.45,64.36
+147,water bottle,246.21,60.60
+147,vitamin bottle,104.61,316.22
+148,football,47.05,64.27
+148,water bottle,247.20,60.99
+148,vitamin bottle,104.73,316.33
+149,football,47.16,64.29
+149,water bottle,247.71,61.35
+149,vitamin bottle,104.76,316.45
+150,football,47.28,64.05
+150,water bottle,248.04,61.33
+150,vitamin bottle,104.63,316.46
+151,football,47.52,63.25
+151,water bottle,248.53,60.96
+151,vitamin bottle,104.70,316.39
+152,football,47.85,61.79
+152,water bottle,248.61,59.89
+152,vitamin bottle,104.65,316.22
+153,football,49.01,59.91
+153,water bottle,249.35,58.26
+153,vitamin bottle,104.55,316.25
+154,football,51.47,59.19
+154,water bottle,251.27,57.72
+154,vitamin bottle,104.74,316.42
+155,football,53.86,59.30
+155,water bottle,253.00,57.99
+155,vitamin bottle,104.78,316.57
+156,football,55.44,59.84
+156,water bottle,254.37,58.65
+156,vitamin bottle,104.73,316.59
+157,football,56.72,60.02
+157,water bottle,255.23,59.26
+157,vitamin bottle,104.60,316.57
+158,football,57.77,59.48
+158,water bottle,255.83,59.11
+158,vitamin bottle,104.53,316.54
+159,football,59.44,59.30
+159,water bottle,257.09,59.52
+159,vitamin bottle,104.43,316.53
+160,football,61.65,59.63
+160,water bottle,259.01,60.61
+160,vitamin bottle,104.51,316.71
+161,football,63.33,59.82
+161,water bottle,260.44,61.32
+161,vitamin bottle,104.61,316.76
+162,football,64.53,60.33
+162,water bottle,261.28,62.40
+162,vitamin bottle,104.62,316.75
+163,football,64.97,61.12
+163,water bottle,261.88,63.76
+163,vitamin bottle,104.57,316.75
+164,football,65.40,61.73
+164,water bottle,262.49,64.86
+164,vitamin bottle,104.57,316.72
+165,football,65.94,61.93
+165,water bottle,263.25,65.67
+165,vitamin bottle,104.58,316.70
+166,football,66.85,62.83
+166,water bottle,263.72,66.90
+166,vitamin bottle,104.28,316.64
+167,football,68.28,63.50
+167,water bottle,264.85,68.38
+167,vitamin bottle,104.41,316.68
+168,football,69.99,63.73
+168,water bottle,265.90,69.30
+168,vitamin bottle,104.33,316.62
+169,football,71.25,64.29
+169,water bottle,266.73,70.45
+169,vitamin bottle,104.27,316.62
+170,football,71.38,66.60
+170,water bottle,267.45,73.27
+170,vitamin bottle,104.28,316.63
+171,football,70.55,69.40
+171,water bottle,268.10,76.67
+171,vitamin bottle,104.14,316.69
+172,football,69.83,71.43
+172,water bottle,268.44,79.17
+172,vitamin bottle,104.19,316.66
+173,football,68.53,73.27
+173,water bottle,268.79,81.05
+173,vitamin bottle,104.27,316.66
+174,football,66.81,75.73
+174,water bottle,268.91,83.63
+174,vitamin bottle,104.14,316.65
+175,football,64.78,79.22
+175,water bottle,268.89,86.14
+175,vitamin bottle,104.19,316.64
+176,football,60.39,88.09
+176,water bottle,267.39,91.16
+176,vitamin bottle,104.13,316.61
+177,football,56.39,95.16
+177,water bottle,265.64,96.35
+177,vitamin bottle,104.15,316.65
+178,football,52.98,101.57
+178,water bottle,262.90,102.60
+178,vitamin bottle,104.20,316.66
+179,football,50.69,108.75
+179,water bottle,259.87,110.29
+179,vitamin bottle,104.18,316.61
+180,football,49.12,116.17
+180,water bottle,256.68,119.33
+180,vitamin bottle,104.18,316.56
+181,football,49.08,123.91
+181,water bottle,253.84,130.47
+181,vitamin bottle,104.05,316.40
+182,football,50.53,131.66
+182,water bottle,251.88,142.68
+182,vitamin bottle,103.98,316.38
+183,football,52.93,139.34
+183,water bottle,250.50,155.30
+183,vitamin bottle,103.95,316.27
+184,football,54.43,146.88
+184,water bottle,249.09,168.52
+184,vitamin bottle,103.84,316.12
+185,football,56.64,154.83
+185,water bottle,243.96,182.34
+185,vitamin bottle,103.74,315.91
+186,football,60.84,162.50
+186,water bottle,244.52,196.58
+186,vitamin bottle,103.70,315.81
+187,football,66.49,170.69
+187,water bottle,248.00,210.43
+187,vitamin bottle,103.82,315.94
+188,football,71.08,179.10
+188,water bottle,253.35,225.07
+188,vitamin bottle,103.93,315.79
+189,football,73.79,185.84
+189,water bottle,258.95,239.73
+189,vitamin bottle,103.88,315.92
+190,football,,
+190,water bottle,264.38,253.92
+190,vitamin bottle,103.86,315.92
+191,football,,
+191,water bottle,270.94,269.56
+191,vitamin bottle,103.93,315.64
+192,football,,
+192,water bottle,278.03,287.84
+192,vitamin bottle,104.01,315.79
+193,football,,
+193,water bottle,286.28,306.94
+193,vitamin bottle,104.08,315.50
+194,football,,
+194,water bottle,289.52,322.70
+194,vitamin bottle,104.21,315.56
+195,football,,
+195,water bottle,289.72,337.47
+195,vitamin bottle,104.22,315.47
+196,football,,
+196,water bottle,289.73,353.05
+196,vitamin bottle,104.17,315.43
+197,football,,
+197,water bottle,289.51,368.44
+197,vitamin bottle,104.43,315.66
+198,football,,
+198,water bottle,287.55,381.22
+198,vitamin bottle,104.42,315.78
+199,football,,
+199,water bottle,285.92,392.56
+199,vitamin bottle,104.45,315.74
+200,football,,
+200,water bottle,284.15,404.53
+200,vitamin bottle,104.50,315.76
+201,football,,
+201,water bottle,281.87,416.39
+201,vitamin bottle,104.71,315.79
+202,football,,
+202,water bottle,278.63,426.67
+202,vitamin bottle,104.76,316.01
+203,football,,
+203,water bottle,273.70,436.33
+203,vitamin bottle,104.96,315.77
+204,football,,
+204,water bottle,266.11,442.60
+204,vitamin bottle,104.94,315.88
+205,football,,
+205,water bottle,257.59,447.85
+205,vitamin bottle,104.95,315.98
+206,football,,
+206,water bottle,247.82,452.00
+206,vitamin bottle,104.76,316.09
+207,football,,
+207,water bottle,238.56,455.25
+207,vitamin bottle,104.74,316.12
+208,football,,
+208,water bottle,229.48,457.82
+208,vitamin bottle,104.78,316.13
+209,football,,
+209,water bottle,220.88,459.97
+209,vitamin bottle,104.86,316.25
+210,football,,
+210,water bottle,212.30,462.20
+210,vitamin bottle,104.98,316.19
+211,football,,
+211,water bottle,200.23,464.72
+211,vitamin bottle,105.09,316.42
+212,football,,
+212,water bottle,187.84,466.25
+212,vitamin bottle,105.19,316.47
+213,football,,
+213,water bottle,176.71,467.01
+213,vitamin bottle,105.15,316.48
+214,football,,
+214,water bottle,167.75,467.46
+214,vitamin bottle,105.05,316.50
+215,football,,
+215,water bottle,160.75,467.82
+215,vitamin bottle,105.08,316.46
+216,football,,
+216,water bottle,155.41,467.97
+216,vitamin bottle,105.13,316.51
+217,football,,
+217,water bottle,171.64,478.58
+217,vitamin bottle,105.19,316.54
+218,football,,
+218,water bottle,171.02,479.78
+218,vitamin bottle,105.09,316.46
+219,football,,
+219,water bottle,171.80,480.80
+219,vitamin bottle,105.08,316.47
+220,football,,
+220,water bottle,173.04,481.23
+220,vitamin bottle,105.13,316.49
+221,football,,
+221,water bottle,174.12,481.23
+221,vitamin bottle,105.03,316.41
+222,football,,
+222,water bottle,172.81,481.76
+222,vitamin bottle,104.83,316.36
+223,football,,
+223,water bottle,171.48,483.33
+223,vitamin bottle,104.70,316.35
+224,football,,
+224,water bottle,173.54,483.80
+224,vitamin bottle,104.79,316.47
+225,football,,
+225,water bottle,176.27,484.01
+225,vitamin bottle,104.76,316.28
+226,football,,
+226,water bottle,177.63,484.60
+226,vitamin bottle,104.23,316.24
+227,football,,
+227,water bottle,179.84,484.90
+227,vitamin bottle,103.98,316.22
+228,football,,
+228,water bottle,184.03,484.65
+228,vitamin bottle,103.96,316.11
+229,football,,
+229,water bottle,189.38,484.40
+229,vitamin bottle,103.77,316.13
+230,football,,
+230,water bottle,193.94,484.70
+230,vitamin bottle,103.45,316.14
+231,football,,
+231,water bottle,198.86,484.86
+231,vitamin bottle,102.90,316.01
+232,football,,
+232,water bottle,202.09,485.17
+232,vitamin bottle,100.01,315.73
+233,football,,
+233,water bottle,202.92,485.19
+233,vitamin bottle,92.24,314.59
+234,football,,
+234,water bottle,204.09,485.06
+234,vitamin bottle,84.22,314.44
+235,football,,
+235,water bottle,203.95,484.96
+235,vitamin bottle,83.11,314.81
+236,football,,
+236,water bottle,202.30,484.81
+236,vitamin bottle,82.87,314.88
+237,football,,
+237,water bottle,200.08,484.96
+237,vitamin bottle,83.26,314.26
+238,football,,
+238,water bottle,198.97,485.80
+238,vitamin bottle,82.93,315.29
+239,football,,
+239,water bottle,198.17,486.28
+239,vitamin bottle,82.56,315.67
+240,football,,
+240,water bottle,197.32,485.52
+240,vitamin bottle,81.07,315.59
+241,football,,
+241,water bottle,195.80,485.64
+241,vitamin bottle,78.63,315.88
+242,football,,
+242,water bottle,194.11,485.74
+242,vitamin bottle,75.66,317.40
+243,football,,
+243,water bottle,193.70,485.07
+243,vitamin bottle,73.98,318.32
+244,football,,
+244,water bottle,193.21,485.12
+244,vitamin bottle,73.89,319.49
+245,football,,
+245,water bottle,192.65,485.71
+245,vitamin bottle,74.28,321.31
+246,football,,
+246,water bottle,192.97,486.17
+246,vitamin bottle,74.29,322.52
+247,football,,
+247,water bottle,191.80,487.11
+247,vitamin bottle,73.91,323.49
+248,football,,
+248,water bottle,190.54,487.32
+248,vitamin bottle,73.32,323.24
+249,football,,
+249,water bottle,190.37,486.35
+249,vitamin bottle,72.86,322.10
+250,football,,
+250,water bottle,188.46,485.73
+250,vitamin bottle,72.05,321.46
+251,football,,
+251,water bottle,187.84,484.83
+251,vitamin bottle,70.50,320.98
+252,football,,
+252,water bottle,188.04,484.11
+252,vitamin bottle,69.83,319.07
+253,football,,
+253,water bottle,188.01,484.07
+253,vitamin bottle,71.05,315.45
+254,football,,
+254,water bottle,188.71,483.46
+254,vitamin bottle,71.49,314.19
+255,football,,
+255,water bottle,188.04,482.96
+255,vitamin bottle,70.94,313.35
+256,football,,
+256,water bottle,186.73,482.58
+256,vitamin bottle,69.93,311.99
+257,football,,
+257,water bottle,187.95,481.43
+257,vitamin bottle,69.01,308.68
+258,football,,
+258,water bottle,189.60,480.44
+258,vitamin bottle,68.85,305.60
+259,football,,
+259,water bottle,188.85,479.11
+259,vitamin bottle,69.22,303.10
+260,football,,
+260,water bottle,190.16,478.91
+260,vitamin bottle,68.61,301.44
+261,football,,
+261,water bottle,189.29,479.14
+261,vitamin bottle,68.55,301.39
+262,football,,
+262,water bottle,191.49,478.48
+262,vitamin bottle,69.36,299.60
+263,football,,
+263,water bottle,196.72,476.97
+263,vitamin bottle,70.74,295.76
+264,football,,
+264,water bottle,200.63,476.22
+264,vitamin bottle,72.06,293.99
+265,football,,
+265,water bottle,202.83,476.19
+265,vitamin bottle,74.09,294.27
+266,football,,
+266,water bottle,207.78,475.75
+266,vitamin bottle,76.44,292.30
+267,football,,
+267,water bottle,215.34,474.57
+267,vitamin bottle,79.86,289.82
+268,football,,
+268,water bottle,223.55,473.68
+268,vitamin bottle,84.48,286.87
+269,football,,
+269,water bottle,232.26,472.51
+269,vitamin bottle,89.85,284.27
+270,football,,
+270,water bottle,239.23,471.84
+270,vitamin bottle,95.44,282.75
+271,football,,
+271,water bottle,245.77,470.52
+271,vitamin bottle,100.52,280.30
+272,football,129.02,469.47
+272,water bottle,252.90,467.62
+272,vitamin bottle,111.64,277.98
+273,football,130.73,466.41
+273,water bottle,258.36,465.00
+273,vitamin bottle,116.96,275.89
+274,football,132.18,463.73
+274,water bottle,261.41,463.20
+274,vitamin bottle,120.89,275.03
+275,football,132.82,461.11
+275,water bottle,262.91,460.95
+275,vitamin bottle,124.57,274.07
+276,football,132.80,456.76
+276,water bottle,266.25,458.62
+276,vitamin bottle,127.80,271.88
+277,football,133.10,449.13
+277,water bottle,269.06,455.11
+277,vitamin bottle,130.87,268.33
+278,football,133.63,440.10
+278,water bottle,271.87,451.44
+278,vitamin bottle,133.51,264.71
+279,football,134.89,431.04
+279,water bottle,275.08,447.40
+279,vitamin bottle,137.78,260.24
+280,football,137.61,421.04
+280,water bottle,279.65,441.70
+280,vitamin bottle,143.81,253.66
+281,football,141.05,413.09
+281,water bottle,284.25,436.35
+281,vitamin bottle,148.99,248.25
+282,football,145.14,408.94
+282,water bottle,287.60,433.53
+282,vitamin bottle,154.54,246.35
+283,football,151.20,403.65
+283,water bottle,291.22,429.62
+283,vitamin bottle,161.85,243.29
+284,football,158.36,398.02
+284,water bottle,294.44,423.22
+284,vitamin bottle,169.74,239.08
+285,football,164.72,393.61
+285,water bottle,297.24,417.46
+285,vitamin bottle,175.88,235.79
+286,football,169.84,389.75
+286,water bottle,299.53,412.07
+286,vitamin bottle,180.44,232.89
+287,football,174.42,384.36
+287,water bottle,301.38,405.62
+287,vitamin bottle,184.88,228.59
+288,football,178.46,378.07
+288,water bottle,302.88,398.09
+288,vitamin bottle,188.38,223.06
+289,football,180.68,371.93
+289,water bottle,303.39,390.84
+289,vitamin bottle,190.05,217.63
+290,football,181.41,365.22
+290,water bottle,303.68,383.50
+290,vitamin bottle,189.93,211.64
+291,football,182.06,358.85
+291,water bottle,303.87,376.63
+291,vitamin bottle,190.15,205.76
+292,football,183.85,353.48
+292,water bottle,304.52,370.36
+292,vitamin bottle,191.29,200.46
+293,football,186.08,349.49
+293,water bottle,305.59,365.01
+293,vitamin bottle,192.61,196.29
+294,football,188.73,347.21
+294,water bottle,306.65,360.95
+294,vitamin bottle,193.73,193.62
+295,football,190.67,344.35
+295,water bottle,307.48,356.72
+295,vitamin bottle,193.94,190.43
+296,football,191.97,340.14
+296,water bottle,307.89,351.39
+296,vitamin bottle,194.35,186.16
+297,football,192.31,334.84
+297,water bottle,307.86,344.90
+297,vitamin bottle,192.90,180.39
+298,football,192.40,330.69
+298,water bottle,307.88,339.52
+298,vitamin bottle,191.57,176.01
+299,football,193.02,328.60
+299,water bottle,308.23,336.24
+299,vitamin bottle,191.12,173.55
+300,football,193.90,328.37
+300,water bottle,308.64,334.95
+300,vitamin bottle,190.63,172.78
+301,football,194.41,328.06
+301,water bottle,308.91,333.89
+301,vitamin bottle,189.79,171.89
+302,football,195.36,324.40
+302,water bottle,309.03,329.27
+302,vitamin bottle,189.67,167.33
+303,football,195.21,317.57
+303,water bottle,308.96,321.59
+303,vitamin bottle,188.85,159.72
+304,football,194.20,312.65
+304,water bottle,308.61,316.29
+304,vitamin bottle,187.73,154.06
+305,football,193.19,306.90
+305,water bottle,308.23,310.60
+305,vitamin bottle,186.48,147.43
+306,football,191.11,301.22
+306,water bottle,307.42,305.12
+306,vitamin bottle,184.95,140.91
+307,football,189.49,295.77
+307,water bottle,306.79,300.18
+307,vitamin bottle,184.32,134.31
+308,football,189.09,290.42
+308,water bottle,306.58,295.12
+308,vitamin bottle,184.20,127.58
+309,football,190.08,286.47
+309,water bottle,307.10,291.40
+309,vitamin bottle,185.91,121.99
+310,football,191.91,282.47
+310,water bottle,307.94,287.21
+310,vitamin bottle,187.12,116.82
+311,football,191.64,279.18
+311,water bottle,307.85,283.52
+311,vitamin bottle,186.37,112.73
+312,football,191.50,276.40
+312,water bottle,307.87,280.15
+312,vitamin bottle,184.78,109.15
+313,football,192.82,273.20
+313,water bottle,308.35,275.98
+313,vitamin bottle,184.86,104.93
+314,football,194.64,270.74
+314,water bottle,309.32,272.65
+314,vitamin bottle,185.26,101.65
+315,football,195.58,269.77
+315,water bottle,309.72,270.90
+315,vitamin bottle,185.30,100.12
+316,football,196.93,266.92
+316,water bottle,310.20,267.74
+316,vitamin bottle,185.63,96.33
+317,football,198.52,264.34
+317,water bottle,310.95,265.09
+317,vitamin bottle,186.98,92.87
+318,football,199.48,263.68
+318,water bottle,311.30,264.50
+318,vitamin bottle,188.28,91.86
+319,football,200.26,262.67
+319,water bottle,311.61,263.41
+319,vitamin bottle,188.82,90.47
+320,football,201.33,262.03
+320,water bottle,312.24,262.61
+320,vitamin bottle,190.02,89.23
+321,football,202.48,262.09
+321,water bottle,312.73,262.62
+321,vitamin bottle,191.40,89.19
+322,football,203.39,261.86
+322,water bottle,313.05,262.20
+322,vitamin bottle,192.25,88.65
+323,football,204.02,262.57
+323,water bottle,313.30,262.86
+323,vitamin bottle,192.97,89.55
+324,football,205.20,263.14
+324,water bottle,313.82,263.56
+324,vitamin bottle,194.76,89.83
+325,football,206.27,263.98
+325,water bottle,314.12,264.78
+325,vitamin bottle,196.56,90.71
+326,football,206.46,265.57
+326,water bottle,314.23,266.74
+326,vitamin bottle,197.55,92.56
+327,football,206.84,267.38
+327,water bottle,314.40,268.96
+327,vitamin bottle,198.84,94.54
+328,football,207.87,268.55
+328,water bottle,314.97,270.52
+328,vitamin bottle,200.57,95.86
+329,football,208.84,269.79
+329,water bottle,315.37,272.00
+329,vitamin bottle,201.99,97.13
+330,football,209.07,271.02
+330,water bottle,315.42,273.37
+330,vitamin bottle,202.56,98.59
+331,football,208.50,272.14
+331,water bottle,315.22,274.51
+331,vitamin bottle,202.01,100.15
+332,football,208.32,272.94
+332,water bottle,315.02,275.29
+332,vitamin bottle,201.86,101.10
+333,football,209.19,273.63
+333,water bottle,315.46,275.94
+333,vitamin bottle,202.94,101.68
+334,football,209.47,274.73
+334,water bottle,315.72,277.17
+334,vitamin bottle,203.62,102.87
+335,football,209.50,274.98
+335,water bottle,315.65,277.62
+335,vitamin bottle,203.68,103.18
+336,football,209.62,274.65
+336,water bottle,315.69,277.21
+336,vitamin bottle,203.98,102.61
+337,football,209.58,274.90
+337,water bottle,315.66,277.41
+337,vitamin bottle,203.85,102.94
+338,football,209.89,275.07
+338,water bottle,315.80,277.27
+338,vitamin bottle,203.88,103.02
+339,football,210.31,274.64
+339,water bottle,315.94,276.47
+339,vitamin bottle,203.81,102.23
+340,football,209.84,274.94
+340,water bottle,315.81,276.51
+340,vitamin bottle,202.82,102.49
+341,football,209.08,274.81
+341,water bottle,315.44,276.25
+341,vitamin bottle,201.44,102.11
+342,football,207.88,274.16
+342,water bottle,315.00,275.45
+342,vitamin bottle,199.83,101.07
+343,football,206.45,274.06
+343,water bottle,314.34,275.30
+343,vitamin bottle,198.00,100.43
+344,football,204.99,273.60
+344,water bottle,313.71,274.71
+344,vitamin bottle,195.93,98.97
+345,football,203.45,274.39
+345,water bottle,313.20,275.06
+345,vitamin bottle,193.76,98.59
+346,football,202.62,274.82
+346,water bottle,313.02,275.73
+346,vitamin bottle,192.66,96.99
+347,football,201.55,273.91
+347,water bottle,312.69,275.54
+347,vitamin bottle,192.18,92.99
+348,football,198.86,274.82
+348,water bottle,311.72,277.22
+348,vitamin bottle,190.57,90.77
+349,football,197.10,276.74
+349,water bottle,311.36,279.79
+349,vitamin bottle,189.23,89.07
+350,football,195.40,279.90
+350,water bottle,310.95,283.24
+350,vitamin bottle,188.15,87.93
+351,football,192.82,285.02
+351,water bottle,310.18,288.63
+351,vitamin bottle,185.97,88.30
+352,football,191.74,284.44
+352,water bottle,310.18,287.98
+352,vitamin bottle,183.69,80.49
+353,football,191.17,283.29
+353,water bottle,310.31,286.56
+353,vitamin bottle,181.87,72.02
+354,football,190.52,284.50
+354,water bottle,310.50,287.55
+354,vitamin bottle,180.16,65.54
+355,football,189.38,284.72
+355,water bottle,310.42,287.62
+355,vitamin bottle,176.32,59.82
+356,football,184.77,287.44
+356,water bottle,309.16,290.44
+356,vitamin bottle,167.46,55.23
+357,football,182.52,291.17
+357,water bottle,308.79,294.13
+357,vitamin bottle,162.56,53.51
+358,football,178.31,295.40
+358,water bottle,307.45,297.98
+358,vitamin bottle,154.90,52.34
+359,football,171.68,298.53
+359,water bottle,305.27,301.04
+359,vitamin bottle,144.05,50.26
+360,football,164.56,298.02
+360,water bottle,302.94,300.61
+360,vitamin bottle,131.11,46.57
+361,football,156.84,296.74
+361,water bottle,300.57,299.72
+361,vitamin bottle,117.54,42.99
+362,football,148.62,298.42
+362,water bottle,298.12,301.42
+362,vitamin bottle,103.81,41.27
+363,football,142.92,302.21
+363,water bottle,296.64,305.22
+363,vitamin bottle,93.98,40.45
+364,football,138.92,304.32
+364,water bottle,295.91,307.20
+364,vitamin bottle,84.78,38.76
+365,football,133.85,306.50
+365,water bottle,294.42,309.10
+365,vitamin bottle,76.47,37.73
+366,football,127.18,309.32
+366,water bottle,293.46,312.68
+366,vitamin bottle,70.80,37.71
+367,football,121.30,309.88
+367,water bottle,292.05,314.19
+367,vitamin bottle,65.33,36.17
+368,football,117.69,307.90
+368,water bottle,291.36,313.04
+368,vitamin bottle,60.36,33.82
+369,football,114.30,307.40
+369,water bottle,290.74,312.98
+369,vitamin bottle,56.44,32.36
+370,football,112.66,308.80
+370,water bottle,290.72,314.55
+370,vitamin bottle,54.53,32.14
+371,football,110.90,311.20
+371,water bottle,290.46,317.21
+371,vitamin bottle,53.78,32.53
+372,football,108.00,312.07
+372,water bottle,289.68,318.50
+372,vitamin bottle,51.97,32.49
+373,football,104.58,311.41
+373,water bottle,288.34,317.84
+373,vitamin bottle,49.26,32.06
+374,football,100.03,312.52
+374,water bottle,286.89,318.99
+374,vitamin bottle,47.44,32.49
+375,football,98.13,310.48
+375,water bottle,286.44,317.14
+375,vitamin bottle,44.38,31.19
+376,football,99.97,306.37
+376,water bottle,287.44,312.47
+376,vitamin bottle,42.31,28.48
+377,football,102.42,305.27
+377,water bottle,288.68,310.53
+377,vitamin bottle,42.03,27.49
+378,football,104.00,307.68
+378,water bottle,289.24,311.65
+378,vitamin bottle,42.64,28.16
+379,football,104.77,309.44
+379,water bottle,289.58,313.34
+379,vitamin bottle,43.25,28.62
+380,football,104.22,307.45
+380,water bottle,289.46,311.58
+380,vitamin bottle,41.70,27.11
+381,football,101.63,305.81
+381,water bottle,288.76,310.09
+381,vitamin bottle,39.71,26.35
+382,football,99.14,305.40
+382,water bottle,287.81,309.85
+382,vitamin bottle,38.29,25.98
+383,football,99.06,300.51
+383,water bottle,287.68,306.35
+383,vitamin bottle,36.11,23.84
+384,football,98.81,300.00
+384,water bottle,287.75,306.49
+384,vitamin bottle,36.00,23.97
+385,football,97.55,302.13
+385,water bottle,288.00,309.09
+385,vitamin bottle,36.40,25.55
+386,football,94.72,304.98
+386,water bottle,287.90,311.96
+386,vitamin bottle,36.96,27.01
+387,football,88.26,308.96
+387,water bottle,287.29,314.46
+387,vitamin bottle,36.45,28.11
+388,football,79.25,309.31
+388,water bottle,286.76,312.22
+388,vitamin bottle,33.53,26.71
+389,football,75.10,307.10
+389,water bottle,286.89,310.19
+389,vitamin bottle,31.89,25.49
+390,football,72.54,304.82
+390,water bottle,287.43,309.12
+390,vitamin bottle,31.79,24.69
+391,football,70.76,304.85
+391,water bottle,288.47,307.37
+391,vitamin bottle,31.88,23.89
+392,football,71.97,304.90
+392,water bottle,289.42,304.56
+392,vitamin bottle,31.83,23.10
+393,football,76.44,303.77
+393,water bottle,290.58,303.38
+393,vitamin bottle,33.32,23.21
+394,football,80.83,303.26
+394,water bottle,291.42,303.44
+394,vitamin bottle,35.10,23.83
+395,football,84.46,302.72
+395,water bottle,292.09,302.95
+395,vitamin bottle,36.32,23.91
+396,football,88.36,302.11
+396,water bottle,292.70,302.68
+396,vitamin bottle,38.04,23.88
+397,football,91.04,301.82
+397,water bottle,293.42,302.66
+397,vitamin bottle,39.67,23.99
+398,football,90.17,301.64
+398,water bottle,293.87,302.15
+398,vitamin bottle,40.58,24.00
+399,football,89.67,301.27
+399,water bottle,294.42,301.44
+399,vitamin bottle,41.61,23.57
+400,football,89.66,301.10
+400,water bottle,294.93,301.05
+400,vitamin bottle,42.24,23.22
+401,football,89.19,301.00
+401,water bottle,294.59,300.58
+401,vitamin bottle,41.56,23.14
+402,football,89.20,300.47
+402,water bottle,294.30,299.02
+402,vitamin bottle,40.21,22.10
+403,football,89.92,300.34
+403,water bottle,294.32,299.09
+403,vitamin bottle,40.19,22.03
+404,football,89.90,300.68
+404,water bottle,294.20,298.64
+404,vitamin bottle,39.17,22.21
+405,football,89.98,301.24
+405,water bottle,294.24,299.53
+405,vitamin bottle,39.08,23.06
+406,football,90.01,301.31
+406,water bottle,294.42,298.99
+406,vitamin bottle,38.70,22.76
+407,football,89.82,301.27
+407,water bottle,294.23,297.27
+407,vitamin bottle,37.49,22.62
+408,football,89.82,301.45
+408,water bottle,294.15,296.91
+408,vitamin bottle,36.96,23.01
+409,football,89.74,301.45
+409,water bottle,293.70,295.83
+409,vitamin bottle,36.05,22.56
+410,football,89.56,301.47
+410,water bottle,293.59,294.70
+410,vitamin bottle,35.73,22.05
+411,football,89.58,301.51
+411,water bottle,293.63,296.11
+411,vitamin bottle,37.14,23.21
+412,football,89.59,301.62
+412,water bottle,294.15,298.83
+412,vitamin bottle,39.49,24.67
+413,football,89.74,301.70
+413,water bottle,294.86,299.75
+413,vitamin bottle,41.33,24.92
+414,football,89.64,301.73
+414,water bottle,295.11,298.35
+414,vitamin bottle,42.01,24.29
+415,football,89.50,301.73
+415,water bottle,295.02,298.01
+415,vitamin bottle,43.21,24.84
+416,football,89.39,301.74
+416,water bottle,294.54,298.75
+416,vitamin bottle,44.32,26.04
+417,football,89.32,301.69
+417,water bottle,294.40,299.03
+417,vitamin bottle,45.35,26.83
+418,football,89.38,301.78
+418,water bottle,294.13,299.08
+418,vitamin bottle,46.17,27.21
+419,football,89.45,301.79
+419,water bottle,293.69,298.81
+419,vitamin bottle,46.42,27.61
+420,football,89.53,301.92
+420,water bottle,293.13,298.27
+420,vitamin bottle,46.56,28.17
+421,football,89.64,301.91
+421,water bottle,292.23,296.73
+421,vitamin bottle,45.84,28.57
+422,football,89.55,302.03
+422,water bottle,290.77,295.52
+422,vitamin bottle,50.71,31.28
+423,football,89.56,302.02
+423,water bottle,289.31,293.71
+423,vitamin bottle,44.56,29.92
+424,football,89.45,302.04
+424,water bottle,287.69,291.27
+424,vitamin bottle,43.60,30.14
+425,football,89.20,301.94
+425,water bottle,286.27,291.00
+425,vitamin bottle,44.38,31.15
+426,football,89.32,302.01
+426,water bottle,286.08,291.47
+426,vitamin bottle,46.39,32.43
+427,football,89.26,301.92
+427,water bottle,285.80,292.31
+427,vitamin bottle,48.58,33.90
+428,football,89.39,301.94
+428,water bottle,285.66,295.80
+428,vitamin bottle,51.68,36.16
+429,football,89.37,301.94
+429,water bottle,285.55,299.63
+429,vitamin bottle,54.62,38.10
+430,football,89.32,301.97
+430,water bottle,285.33,301.17
+430,vitamin bottle,56.98,38.80
+431,football,89.23,301.94
+431,water bottle,285.00,304.03
+431,vitamin bottle,59.55,39.68
+432,football,89.21,301.86
+432,water bottle,284.90,306.44
+432,vitamin bottle,62.11,40.76
+433,football,89.43,301.96
+433,water bottle,285.15,309.12
+433,vitamin bottle,64.88,42.45
+434,football,89.50,302.06
+434,water bottle,285.34,311.68
+434,vitamin bottle,66.58,44.42
+435,football,89.65,302.15
+435,water bottle,285.39,313.69
+435,vitamin bottle,67.59,46.64
+436,football,89.62,302.14
+436,water bottle,285.10,313.94
+436,vitamin bottle,67.06,48.25
+437,football,89.60,302.18
+437,water bottle,284.66,314.39
+437,vitamin bottle,65.14,49.94
+438,football,89.63,302.21
+438,water bottle,284.19,317.45
+438,vitamin bottle,63.20,52.84
+439,football,89.55,302.25
+439,water bottle,283.08,322.62
+439,vitamin bottle,60.26,56.84
+440,football,89.56,302.33
+440,water bottle,281.58,329.71
+440,vitamin bottle,56.74,62.17
+441,football,89.49,302.42
+441,water bottle,278.99,336.53
+441,vitamin bottle,52.30,68.68
+442,football,89.61,302.34
+442,water bottle,275.50,343.38
+442,vitamin bottle,47.62,77.02
+443,football,89.56,302.32
+443,water bottle,269.70,353.07
+443,vitamin bottle,42.71,86.83
+444,football,89.55,302.26
+444,water bottle,264.84,365.31
+444,vitamin bottle,36.80,98.56
+445,football,89.83,302.21
+445,water bottle,259.87,377.56
+445,vitamin bottle,30.78,108.12
+446,football,89.87,302.05
+446,water bottle,253.50,391.17
+446,vitamin bottle,24.93,116.46
+447,football,90.06,302.07
+447,water bottle,243.54,406.73
+447,vitamin bottle,19.22,126.30
+448,football,90.19,301.90
+448,water bottle,233.51,421.84
+448,vitamin bottle,13.41,135.34
+449,football,90.13,301.83
+449,water bottle,221.20,435.61
+449,vitamin bottle,6.78,144.98
+450,football,90.13,301.71
+450,water bottle,204.99,446.79
+450,vitamin bottle,,
+451,football,90.10,301.87
+451,water bottle,183.38,451.65
+451,vitamin bottle,,
+452,football,90.05,301.84
+452,water bottle,160.74,454.99
+452,vitamin bottle,,
+453,football,90.46,301.79
+453,water bottle,144.13,460.38
+453,vitamin bottle,,
+454,football,90.57,301.77
+454,water bottle,127.12,467.94
+454,vitamin bottle,,
+455,football,90.56,301.90
+455,water bottle,106.30,474.49
+455,vitamin bottle,,
+456,football,90.60,301.89
+456,water bottle,88.58,481.80
+456,vitamin bottle,,
+457,football,90.54,301.93
+457,water bottle,73.75,489.71
+457,vitamin bottle,,
+458,football,90.41,301.89
+458,water bottle,59.65,492.56
+458,vitamin bottle,,
+459,football,90.42,301.91
+459,water bottle,45.77,494.97
+459,vitamin bottle,,
+460,football,90.34,301.96
+460,water bottle,33.45,495.91
+460,vitamin bottle,,
+461,football,90.69,302.03
+461,water bottle,25.34,496.31
+461,vitamin bottle,,
+462,football,90.69,301.93
+462,water bottle,19.11,497.32
+462,vitamin bottle,,
+463,football,90.76,302.35
+463,water bottle,12.81,498.03
+463,vitamin bottle,,
+464,football,90.73,302.33
+464,water bottle,12.19,498.64
+464,vitamin bottle,,
+465,football,90.82,302.17
+465,water bottle,12.15,498.59
+465,vitamin bottle,,
+466,football,90.37,302.17
+466,water bottle,8.80,499.72
+466,vitamin bottle,,
+467,football,90.28,302.32
+467,water bottle,7.45,500.40
+467,vitamin bottle,,
+468,football,90.38,302.34
+468,water bottle,7.92,500.74
+468,vitamin bottle,,
+469,football,90.26,302.29
+469,water bottle,6.11,501.70
+469,vitamin bottle,,
+470,football,89.85,302.45
+470,water bottle,4.71,503.57
+470,vitamin bottle,,
+471,football,90.03,302.45
+471,water bottle,5.39,503.00
+471,vitamin bottle,,
+472,football,89.95,302.48
+472,water bottle,4.70,503.98
+472,vitamin bottle,,
+473,football,89.69,302.38
+473,water bottle,4.35,504.97
+473,vitamin bottle,,
+474,football,90.05,302.35
+474,water bottle,3.92,505.54
+474,vitamin bottle,,
+475,football,89.80,302.24
+475,water bottle,3.11,507.39
+475,vitamin bottle,,
+476,football,90.20,302.40
+476,water bottle,3.43,507.50
+476,vitamin bottle,,
+477,football,90.21,302.30
+477,water bottle,3.10,507.90
+477,vitamin bottle,,
+478,football,90.04,302.39
+478,water bottle,2.69,508.04
+478,vitamin bottle,,
+479,football,89.90,302.12
+479,water bottle,3.83,507.30
+479,vitamin bottle,,
+480,football,89.73,301.95
+480,water bottle,3.31,507.68
+480,vitamin bottle,,
+481,football,89.71,301.98
+481,water bottle,2.10,509.00
+481,vitamin bottle,,
+482,football,89.75,301.98
+482,water bottle,2.26,508.94
+482,vitamin bottle,,
+483,football,89.53,301.59
+483,water bottle,2.62,508.67
+483,vitamin bottle,,
+484,football,89.59,301.55
+484,water bottle,1.90,509.52
+484,vitamin bottle,,
+485,football,89.35,301.43
+485,water bottle,1.50,509.69
+485,vitamin bottle,,
+486,football,86.70,300.90
+486,water bottle,1.91,509.35
+486,vitamin bottle,,
+487,football,78.90,299.51
+487,water bottle,2.71,508.12
+487,vitamin bottle,,
+488,football,62.54,297.89
+488,water bottle,1.96,509.20
+488,vitamin bottle,,
+489,football,47.55,296.91
+489,water bottle,1.43,509.86
+489,vitamin bottle,,
+490,football,37.83,294.47
+490,water bottle,2.26,508.74
+490,vitamin bottle,,
+491,football,35.29,293.35
+491,water bottle,3.06,508.55
+491,vitamin bottle,,
+492,football,30.06,291.27
+492,water bottle,3.09,508.21
+492,vitamin bottle,,
+493,football,22.92,286.56
+493,water bottle,3.75,507.72
+493,vitamin bottle,,
+494,football,15.12,280.95
+494,water bottle,3.65,507.68
+494,vitamin bottle,,
+495,football,9.76,274.30
+495,water bottle,3.12,508.29
+495,vitamin bottle,,
+496,football,4.71,261.78
+496,water bottle,3.56,507.64
+496,vitamin bottle,,
+497,football,,
+497,water bottle,4.32,506.78
+497,vitamin bottle,,
+498,football,,
+498,water bottle,3.65,507.51
+498,vitamin bottle,,
+499,football,,
+499,water bottle,3.33,507.67
+499,vitamin bottle,,
+500,football,,
+500,water bottle,4.42,506.28
+500,vitamin bottle,,
+501,football,,
+501,water bottle,4.78,505.15
+501,vitamin bottle,,
+502,football,,
+502,water bottle,4.35,505.19
+502,vitamin bottle,,
+503,football,,
+503,water bottle,5.22,503.87
+503,vitamin bottle,,
+504,football,,
+504,water bottle,5.44,503.13
+504,vitamin bottle,,
+505,football,,
+505,water bottle,4.29,504.04
+505,vitamin bottle,,
+506,football,,
+506,water bottle,4.13,503.50
+506,vitamin bottle,,
+507,football,,
+507,water bottle,4.25,503.55
+507,vitamin bottle,,
+508,football,,
+508,water bottle,3.58,503.78
+508,vitamin bottle,,
+509,football,,
+509,water bottle,3.14,503.85
+509,vitamin bottle,,
+510,football,,
+510,water bottle,2.91,502.96
+510,vitamin bottle,,
+511,football,,
+511,water bottle,2.78,502.05
+511,vitamin bottle,,
+512,football,,
+512,water bottle,3.82,503.31
+512,vitamin bottle,,
+513,football,,
+513,water bottle,6.95,502.68
+513,vitamin bottle,,
+514,football,,
+514,water bottle,11.04,502.47
+514,vitamin bottle,,
+515,football,,
+515,water bottle,16.17,501.78
+515,vitamin bottle,,
+516,football,,
+516,water bottle,25.93,501.36
+516,vitamin bottle,,
+517,football,,
+517,water bottle,41.69,500.47
+517,vitamin bottle,,
+518,football,,
+518,water bottle,58.57,500.10
+518,vitamin bottle,,
+519,football,,
+519,water bottle,73.23,498.20
+519,vitamin bottle,,
+520,football,,
+520,water bottle,90.78,488.08
+520,vitamin bottle,,
+521,football,,
+521,water bottle,101.12,481.24
+521,vitamin bottle,,
+522,football,,
+522,water bottle,113.37,477.50
+522,vitamin bottle,,
+523,football,,
+523,water bottle,127.16,472.06
+523,vitamin bottle,,
+524,football,,
+524,water bottle,138.10,465.58
+524,vitamin bottle,,
+525,football,,
+525,water bottle,146.68,457.55
+525,vitamin bottle,,
+526,football,,
+526,water bottle,154.26,451.64
+526,vitamin bottle,4.26,243.68
+527,football,,
+527,water bottle,163.82,448.49
+527,vitamin bottle,9.10,246.23
+528,football,,
+528,water bottle,174.32,447.52
+528,vitamin bottle,17.29,244.79
+529,football,,
+529,water bottle,185.89,446.08
+529,vitamin bottle,24.08,242.60
+530,football,,
+530,water bottle,197.22,443.43
+530,vitamin bottle,30.93,238.57
+531,football,,
+531,water bottle,207.30,442.09
+531,vitamin bottle,35.95,236.53
+532,football,,
+532,water bottle,216.55,440.84
+532,vitamin bottle,40.46,234.00
+533,football,,
+533,water bottle,225.40,437.69
+533,vitamin bottle,43.61,231.11
+534,football,,
+534,water bottle,232.34,432.96
+534,vitamin bottle,48.08,225.30
+535,football,,
+535,water bottle,238.96,426.79
+535,vitamin bottle,54.98,217.95
+536,football,,
+536,water bottle,245.65,418.16
+536,vitamin bottle,64.68,208.21
+537,football,,
+537,water bottle,251.79,409.77
+537,vitamin bottle,72.01,199.66
+538,football,,
+538,water bottle,257.04,402.15
+538,vitamin bottle,78.38,191.88
+539,football,,
+539,water bottle,262.11,395.03
+539,vitamin bottle,84.81,185.42
+540,football,,
+540,water bottle,267.26,389.83
+540,vitamin bottle,89.95,181.53
+541,football,,
+541,water bottle,272.20,383.60
+541,vitamin bottle,94.84,177.79
+542,football,,
+542,water bottle,276.26,378.01
+542,vitamin bottle,98.93,174.59
+543,football,,
+543,water bottle,280.01,374.14
+543,vitamin bottle,102.86,172.20
+544,football,,
+544,water bottle,282.28,371.01
+544,vitamin bottle,106.12,170.31
+545,football,,
+545,water bottle,284.01,368.97
+545,vitamin bottle,108.75,169.25
+546,football,,
+546,water bottle,285.07,366.07
+546,vitamin bottle,112.36,166.31
+547,football,,
+547,water bottle,285.33,363.16
+547,vitamin bottle,113.57,165.31
+548,football,,
+548,water bottle,285.63,362.55
+548,vitamin bottle,115.97,165.58
+549,football,,
+549,water bottle,286.58,363.09
+549,vitamin bottle,119.47,166.38
+550,football,,
+550,water bottle,286.73,367.06
+550,vitamin bottle,121.86,170.23
+551,football,,
+551,water bottle,286.93,370.41
+551,vitamin bottle,125.03,172.73
+552,football,,
+552,water bottle,287.87,371.97
+552,vitamin bottle,129.71,173.51
+553,football,,
+553,water bottle,288.54,373.82
+553,vitamin bottle,133.88,175.11
+554,football,,
+554,water bottle,289.52,375.79
+554,vitamin bottle,117.97,180.20
+555,football,,
+555,water bottle,290.77,379.44
+555,vitamin bottle,143.30,180.55
+556,football,,
+556,water bottle,292.59,385.45
+556,vitamin bottle,149.09,186.60
+557,football,,
+557,water bottle,293.63,394.63
+557,vitamin bottle,154.07,195.31
+558,football,,
+558,water bottle,295.12,405.88
+558,vitamin bottle,140.06,207.61
+559,football,,
+559,water bottle,296.19,415.30
+559,vitamin bottle,144.18,213.51
+560,football,,
+560,water bottle,296.08,422.61
+560,vitamin bottle,147.12,217.69
+561,football,,
+561,water bottle,294.62,429.44
+561,vitamin bottle,150.39,222.42
+562,football,,
+562,water bottle,291.28,437.83
+562,vitamin bottle,151.88,229.81
+563,football,,
+563,water bottle,288.24,444.27
+563,vitamin bottle,153.19,236.48
+564,football,,
+564,water bottle,285.60,449.65
+564,vitamin bottle,155.86,242.11
+565,football,,
+565,water bottle,282.02,456.22
+565,vitamin bottle,159.80,249.63
+566,football,,
+566,water bottle,277.16,461.90
+566,vitamin bottle,160.12,256.18
+567,football,,
+567,water bottle,271.67,464.26
+567,vitamin bottle,155.63,259.33
+568,football,,
+568,water bottle,268.25,464.38
+568,vitamin bottle,149.66,259.38
+569,football,,
+569,water bottle,264.51,465.39
+569,vitamin bottle,144.74,260.69
+570,football,,
+570,water bottle,261.98,467.67
+570,vitamin bottle,143.16,263.84
+571,football,,
+571,water bottle,259.87,471.58
+571,vitamin bottle,145.64,270.09
+572,football,,
+572,water bottle,258.87,475.87
+572,vitamin bottle,150.72,277.80
+573,football,,
+573,water bottle,260.75,478.20
+573,vitamin bottle,154.37,282.25
+574,football,,
+574,water bottle,261.60,480.52
+574,vitamin bottle,154.94,286.67
+575,football,,
+575,water bottle,262.72,481.74
+575,vitamin bottle,153.83,288.64
+576,football,,
+576,water bottle,263.71,481.20
+576,vitamin bottle,150.71,287.04
+577,football,,
+577,water bottle,263.59,480.69
+577,vitamin bottle,147.49,285.70
+578,football,,
+578,water bottle,261.67,480.10
+578,vitamin bottle,143.09,284.79
+579,football,,
+579,water bottle,259.43,480.00
+579,vitamin bottle,140.46,285.15
+580,football,,
+580,water bottle,255.26,480.91
+580,vitamin bottle,138.67,288.30
+581,football,,
+581,water bottle,251.43,481.77
+581,vitamin bottle,137.55,291.79
+582,football,,
+582,water bottle,247.42,483.46
+582,vitamin bottle,135.54,296.19
+583,football,,
+583,water bottle,244.36,484.12
+583,vitamin bottle,134.05,299.39
+584,football,,
+584,water bottle,243.26,484.17
+584,vitamin bottle,133.79,300.81
+585,football,,
+585,water bottle,240.95,484.26
+585,vitamin bottle,132.23,302.00
+586,football,,
+586,water bottle,239.52,483.32
+586,vitamin bottle,130.42,300.54
+587,football,,
+587,water bottle,238.24,483.22
+587,vitamin bottle,129.57,300.77
+588,football,,
+588,water bottle,237.24,483.71
+588,vitamin bottle,129.01,301.74
+589,football,,
+589,water bottle,236.54,484.20
+589,vitamin bottle,129.56,304.88
+590,football,,
+590,water bottle,234.46,485.57
+590,vitamin bottle,128.00,312.86
+591,football,,
+591,water bottle,233.46,486.22
+591,vitamin bottle,127.54,318.81
+592,football,,
+592,water bottle,229.78,487.74
+592,vitamin bottle,126.71,321.00
+593,football,,
+593,water bottle,228.03,488.03
+593,vitamin bottle,127.07,320.84
+594,football,,
+594,water bottle,228.20,488.61
+594,vitamin bottle,127.31,319.06
+595,football,,
+595,water bottle,229.06,489.42
+595,vitamin bottle,126.67,316.89
+596,football,,
+596,water bottle,230.21,488.97
+596,vitamin bottle,126.12,316.68
+597,football,,
+597,water bottle,232.30,489.11
+597,vitamin bottle,125.61,317.10
+598,football,,
+598,water bottle,235.16,489.20
+598,vitamin bottle,123.40,317.65
+599,football,,
+599,water bottle,236.83,489.71
+599,vitamin bottle,121.70,318.35
+600,football,,
+600,water bottle,237.57,489.70
+600,vitamin bottle,120.42,318.93
+601,football,,
+601,water bottle,237.64,490.33
+601,vitamin bottle,119.84,319.13
+602,football,,
+602,water bottle,236.93,490.26
+602,vitamin bottle,120.36,319.01
+603,football,,
+603,water bottle,236.43,490.21
+603,vitamin bottle,120.48,318.73
+604,football,,
+604,water bottle,236.87,490.08
+604,vitamin bottle,120.23,318.77
+605,football,,
+605,water bottle,236.92,490.25
+605,vitamin bottle,119.31,319.25
+606,football,,
+606,water bottle,236.86,490.30
+606,vitamin bottle,118.73,319.17
+607,football,,
+607,water bottle,236.80,490.31
+607,vitamin bottle,117.62,319.16
+608,football,,
+608,water bottle,237.41,489.87
+608,vitamin bottle,116.16,319.48
+609,football,,
+609,water bottle,237.60,488.55
+609,vitamin bottle,114.27,319.77
+610,football,,
+610,water bottle,237.67,487.80
+610,vitamin bottle,111.83,320.33
+611,football,,
+611,water bottle,236.55,487.57
+611,vitamin bottle,108.83,320.81
+612,football,,
+612,water bottle,236.31,487.46
+612,vitamin bottle,106.78,321.62
+613,football,,
+613,water bottle,236.47,488.19
+613,vitamin bottle,107.55,321.79
+614,football,,
+614,water bottle,236.83,488.57
+614,vitamin bottle,108.46,321.46
+615,football,,
+615,water bottle,235.79,488.47
+615,vitamin bottle,108.30,321.44
+616,football,,
+616,water bottle,234.32,488.02
+616,vitamin bottle,107.11,321.73
+617,football,,
+617,water bottle,231.62,487.17
+617,vitamin bottle,103.82,321.51
+618,football,,
+618,water bottle,228.62,486.00
+618,vitamin bottle,95.53,320.36
+619,football,,
+619,water bottle,225.06,485.85
+619,vitamin bottle,82.52,320.17
+620,football,,
+620,water bottle,220.55,485.48
+620,vitamin bottle,71.87,318.13
+621,football,,
+621,water bottle,213.08,484.66
+621,vitamin bottle,76.73,315.91
+622,football,,
+622,water bottle,215.11,484.25
+622,vitamin bottle,80.10,314.33
+623,football,,
+623,water bottle,212.29,484.88
+623,vitamin bottle,80.47,314.44
+624,football,,
+624,water bottle,211.35,484.53
+624,vitamin bottle,80.91,314.01
+625,football,,
+625,water bottle,210.28,485.14
+625,vitamin bottle,81.22,313.85
+626,football,,
+626,water bottle,210.61,485.17
+626,vitamin bottle,81.62,313.97
+627,football,,
+627,water bottle,210.42,485.46
+627,vitamin bottle,81.53,313.87
+628,football,,
+628,water bottle,210.59,486.01
+628,vitamin bottle,81.76,313.90
+629,football,,
+629,water bottle,210.97,486.22
+629,vitamin bottle,82.01,313.84
+630,football,,
+630,water bottle,209.63,486.80
+630,vitamin bottle,82.12,313.78
+631,football,,
+631,water bottle,208.82,487.16
+631,vitamin bottle,82.55,313.84
+632,football,,
+632,water bottle,208.23,487.60
+632,vitamin bottle,83.02,313.78
+633,football,,
+633,water bottle,207.14,487.75
+633,vitamin bottle,83.29,313.80
+634,football,,
+634,water bottle,205.71,487.67
+634,vitamin bottle,83.39,313.63
+635,football,,
+635,water bottle,205.57,487.83
+635,vitamin bottle,83.40,313.64
+636,football,,
+636,water bottle,205.83,488.05
+636,vitamin bottle,83.70,313.66
+637,football,,
+637,water bottle,204.71,487.98
+637,vitamin bottle,83.62,313.61
+638,football,,
+638,water bottle,202.23,487.61
+638,vitamin bottle,83.73,313.43
+639,football,,
+639,water bottle,200.85,487.37
+639,vitamin bottle,83.65,313.34
+640,football,,
+640,water bottle,200.15,487.42
+640,vitamin bottle,83.66,313.42
+641,football,,
+641,water bottle,200.39,487.46
+641,vitamin bottle,83.53,313.40
+642,football,,
+642,water bottle,202.05,487.75
+642,vitamin bottle,83.55,313.51
+643,football,,
+643,water bottle,202.96,487.79
+643,vitamin bottle,83.40,313.44
+644,football,,
+644,water bottle,203.73,487.91
+644,vitamin bottle,83.36,313.42
+645,football,,
+645,water bottle,204.17,487.87
+645,vitamin bottle,83.21,313.62
+646,football,,
+646,water bottle,204.20,487.95
+646,vitamin bottle,83.30,313.54
+647,football,,
+647,water bottle,202.50,487.42
+647,vitamin bottle,83.42,313.28
+648,football,,
+648,water bottle,199.92,487.14
+648,vitamin bottle,83.29,313.30
+649,football,,
+649,water bottle,198.69,487.30
+649,vitamin bottle,83.37,313.32
+650,football,,
+650,water bottle,197.92,487.44
+650,vitamin bottle,83.25,313.36
+651,football,,
+651,water bottle,196.36,487.69
+651,vitamin bottle,83.14,313.52
+652,football,,
+652,water bottle,194.73,487.04
+652,vitamin bottle,82.57,313.62
+653,football,,
+653,water bottle,191.54,486.60
+653,vitamin bottle,81.83,313.86
+654,football,,
+654,water bottle,188.06,485.67
+654,vitamin bottle,80.50,314.56
+655,football,,
+655,water bottle,183.92,485.02
+655,vitamin bottle,79.01,315.08
+656,football,,
+656,water bottle,178.30,484.88
+656,vitamin bottle,78.16,315.40
+657,football,,
+657,water bottle,171.31,483.85
+657,vitamin bottle,77.90,315.23
+658,football,,
+658,water bottle,165.21,482.63
+658,vitamin bottle,77.86,315.38
+659,football,,
+659,water bottle,160.00,481.45
+659,vitamin bottle,77.82,315.35
+660,football,,
+660,water bottle,154.22,480.69
+660,vitamin bottle,77.74,315.39
+661,football,,
+661,water bottle,147.16,480.34
+661,vitamin bottle,77.70,315.34
+662,football,,
+662,water bottle,139.80,479.63
+662,vitamin bottle,77.66,315.38
+663,football,,
+663,water bottle,134.17,478.32
+663,vitamin bottle,77.74,315.30
+664,football,,
+664,water bottle,128.82,477.21
+664,vitamin bottle,77.74,315.47
+665,football,,
+665,water bottle,120.48,476.88
+665,vitamin bottle,77.75,315.50
+666,football,,
+666,water bottle,109.00,477.69
+666,vitamin bottle,77.65,315.62
+667,football,,
+667,water bottle,98.34,478.62
+667,vitamin bottle,77.72,315.83
+668,football,,
+668,water bottle,86.85,479.16
+668,vitamin bottle,77.74,315.84
+669,football,,
+669,water bottle,74.87,481.21
+669,vitamin bottle,77.66,315.65
+670,football,,
+670,water bottle,65.75,483.36
+670,vitamin bottle,77.58,315.70
+671,football,,
+671,water bottle,56.10,485.09
+671,vitamin bottle,77.62,315.65
+672,football,,
+672,water bottle,45.78,486.65
+672,vitamin bottle,77.68,315.74
+673,football,,
+673,water bottle,35.93,488.71
+673,vitamin bottle,77.82,315.70
+674,football,,
+674,water bottle,27.52,491.29
+674,vitamin bottle,77.72,315.67
+675,football,,
+675,water bottle,20.02,493.78
+675,vitamin bottle,77.63,315.74
+676,football,,
+676,water bottle,12.08,496.18
+676,vitamin bottle,77.76,315.79
+677,football,,
+677,water bottle,4.88,501.27
+677,vitamin bottle,77.85,315.94
+678,football,,
+678,water bottle,,
+678,vitamin bottle,77.91,315.83
+679,football,,
+679,water bottle,,
+679,vitamin bottle,77.93,315.77
+680,football,,
+680,water bottle,,
+680,vitamin bottle,77.92,315.64
+681,football,,
+681,water bottle,,
+681,vitamin bottle,77.96,315.71
+682,football,,
+682,water bottle,,
+682,vitamin bottle,77.91,315.72
+683,football,,
+683,water bottle,,
+683,vitamin bottle,77.71,315.75
+684,football,,
+684,water bottle,,
+684,vitamin bottle,77.85,315.74
+685,football,,
+685,water bottle,,
+685,vitamin bottle,77.82,315.94
+686,football,,
+686,water bottle,,
+686,vitamin bottle,77.91,315.81
+687,football,,
+687,water bottle,,
+687,vitamin bottle,77.81,315.91
+688,football,,
+688,water bottle,,
+688,vitamin bottle,77.66,315.88
+689,football,,
+689,water bottle,,
+689,vitamin bottle,77.57,315.93
+690,football,,
+690,water bottle,,
+690,vitamin bottle,77.60,316.02
+691,football,,
+691,water bottle,,
+691,vitamin bottle,77.67,316.03
+692,football,,
+692,water bottle,,
+692,vitamin bottle,77.63,315.94
+693,football,,
+693,water bottle,,
+693,vitamin bottle,77.66,315.92
+694,football,,
+694,water bottle,,
+694,vitamin bottle,77.52,316.02
+695,football,,
+695,water bottle,,
+695,vitamin bottle,77.40,316.01
+696,football,,
+696,water bottle,,
+696,vitamin bottle,77.55,315.98
+697,football,,
+697,water bottle,,
+697,vitamin bottle,77.45,315.87
+698,football,,
+698,water bottle,,
+698,vitamin bottle,77.43,315.78
+699,football,,
+699,water bottle,,
+699,vitamin bottle,77.64,315.82
+700,football,,
+700,water bottle,,
+700,vitamin bottle,77.46,315.95
+701,football,,
+701,water bottle,,
+701,vitamin bottle,77.37,315.84
+702,football,,
+702,water bottle,,
+702,vitamin bottle,77.36,315.94
+703,football,,
+703,water bottle,,
+703,vitamin bottle,77.28,315.74
+704,football,,
+704,water bottle,,
+704,vitamin bottle,77.56,315.78
+705,football,,
+705,water bottle,,
+705,vitamin bottle,77.84,315.68
+706,football,,
+706,water bottle,,
+706,vitamin bottle,78.25,315.51
+707,football,,
+707,water bottle,,
+707,vitamin bottle,78.56,315.54
+708,football,,
+708,water bottle,,
+708,vitamin bottle,78.89,315.45
+709,football,,
+709,water bottle,,
+709,vitamin bottle,79.09,315.45
+710,football,,
+710,water bottle,,
+710,vitamin bottle,79.18,315.91
+711,football,,
+711,water bottle,,
+711,vitamin bottle,79.42,316.26
+712,football,,
+712,water bottle,,
+712,vitamin bottle,79.52,316.83
+713,football,,
+713,water bottle,,
+713,vitamin bottle,79.58,317.14
+714,football,,
+714,water bottle,,
+714,vitamin bottle,79.20,317.72
+715,football,,
+715,water bottle,,
+715,vitamin bottle,78.81,318.40
+716,football,,
+716,water bottle,,
+716,vitamin bottle,79.85,318.07
+717,football,,
+717,water bottle,,
+717,vitamin bottle,81.07,317.55
+718,football,,
+718,water bottle,,
+718,vitamin bottle,81.24,316.75
+719,football,,
+719,water bottle,,
+719,vitamin bottle,80.90,316.70
+720,football,,
+720,water bottle,,
+720,vitamin bottle,79.73,317.01
+721,football,,
+721,water bottle,,
+721,vitamin bottle,76.01,317.49
+722,football,,
+722,water bottle,,
+722,vitamin bottle,72.55,317.23
+723,football,,
+723,water bottle,,
+723,vitamin bottle,71.67,317.40
+724,football,,
+724,water bottle,,
+724,vitamin bottle,70.77,316.50
+725,football,,
+725,water bottle,,
+725,vitamin bottle,70.46,313.48
+726,football,,
+726,water bottle,,
+726,vitamin bottle,69.06,312.08
+727,football,,
+727,water bottle,,
+727,vitamin bottle,67.13,309.86
+728,football,,
+728,water bottle,,
+728,vitamin bottle,63.11,306.88
+729,football,,
+729,water bottle,,
+729,vitamin bottle,59.37,305.57
+730,football,,
+730,water bottle,,
+730,vitamin bottle,58.42,304.95
+731,football,,
+731,water bottle,,
+731,vitamin bottle,60.08,303.83
+732,football,,
+732,water bottle,,
+732,vitamin bottle,61.15,301.62
+733,football,,
+733,water bottle,,
+733,vitamin bottle,60.83,299.77
+734,football,,
+734,water bottle,,
+734,vitamin bottle,59.58,298.90
+735,football,,
+735,water bottle,,
+735,vitamin bottle,59.03,297.19
+736,football,,
+736,water bottle,,
+736,vitamin bottle,60.47,295.32
+737,football,,
+737,water bottle,,
+737,vitamin bottle,62.76,292.97
+738,football,,
+738,water bottle,,
+738,vitamin bottle,66.72,288.80
+739,football,,
+739,water bottle,,
+739,vitamin bottle,71.01,284.47
+740,football,,
+740,water bottle,,
+740,vitamin bottle,71.59,281.67
+741,football,,
+741,water bottle,,
+741,vitamin bottle,74.00,280.65
+742,football,,
+742,water bottle,,
+742,vitamin bottle,77.84,278.86
+743,football,,
+743,water bottle,,
+743,vitamin bottle,82.43,275.65
+744,football,,
+744,water bottle,,
+744,vitamin bottle,88.11,272.35
+745,football,6.77,284.56
+745,water bottle,,
+745,vitamin bottle,109.27,275.79
+746,football,14.32,287.15
+746,water bottle,,
+746,vitamin bottle,120.67,275.95
+747,football,22.22,287.54
+747,water bottle,,
+747,vitamin bottle,133.17,272.97
+748,football,30.93,285.51
+748,water bottle,,
+748,vitamin bottle,146.05,271.46
+749,football,43.95,285.93
+749,water bottle,6.54,261.51
+749,vitamin bottle,157.86,272.62
+750,football,61.70,283.29
+750,water bottle,,
+750,vitamin bottle,169.68,270.50
+751,football,83.54,277.73
+751,water bottle,,
+751,vitamin bottle,184.54,264.88
+752,football,95.47,277.84
+752,water bottle,164.86,477.26
+752,vitamin bottle,192.86,265.51
+753,football,107.30,274.63
+753,water bottle,182.21,472.19
+753,vitamin bottle,200.92,262.93
+754,football,118.82,270.17
+754,water bottle,195.41,465.71
+754,vitamin bottle,209.54,258.80
+755,football,128.38,268.17
+755,water bottle,205.85,462.11
+755,vitamin bottle,216.47,257.05
+756,football,137.03,267.71
+756,water bottle,216.63,460.17
+756,vitamin bottle,222.72,256.63
+757,football,144.98,267.20
+757,water bottle,226.60,458.38
+757,vitamin bottle,228.92,256.20
+758,football,150.62,264.73
+758,water bottle,233.35,454.78
+758,vitamin bottle,232.91,254.17
+759,football,154.93,257.93
+759,water bottle,243.09,450.20
+759,vitamin bottle,235.91,248.54
+760,football,158.54,250.94
+760,water bottle,249.70,443.94
+760,vitamin bottle,237.94,242.06
+761,football,160.69,248.06
+761,water bottle,250.36,438.96
+761,vitamin bottle,239.14,239.85
+762,football,162.66,245.58
+762,water bottle,249.40,434.04
+762,vitamin bottle,239.96,238.31
+763,football,165.53,241.94
+763,water bottle,250.25,427.66
+763,vitamin bottle,241.92,234.97
+764,football,167.93,240.53
+764,water bottle,251.16,424.31
+764,vitamin bottle,243.89,233.96
+765,football,168.05,240.63
+765,water bottle,249.87,422.64
+765,vitamin bottle,243.00,234.53
+766,football,168.29,236.66
+766,water bottle,249.71,416.79
+766,vitamin bottle,242.82,230.93
+767,football,169.26,232.72
+767,water bottle,250.03,410.92
+767,vitamin bottle,243.36,226.80
+768,football,171.32,229.61
+768,water bottle,252.93,406.56
+768,vitamin bottle,245.15,223.61
+769,football,173.59,227.25
+769,water bottle,257.37,402.77
+769,vitamin bottle,247.50,220.59
+770,football,176.18,225.66
+770,water bottle,261.19,399.54
+770,vitamin bottle,250.12,218.19
+771,football,179.08,222.94
+771,water bottle,264.97,395.34
+771,vitamin bottle,253.29,214.96
+772,football,179.99,220.56
+772,water bottle,267.03,390.94
+772,vitamin bottle,253.98,211.76
+773,football,180.12,219.05
+773,water bottle,258.21,384.44
+773,vitamin bottle,253.60,209.39
+774,football,180.85,217.12
+774,water bottle,260.68,381.60
+774,vitamin bottle,254.56,206.82
+775,football,181.73,215.40
+775,water bottle,263.25,379.48
+775,vitamin bottle,255.63,204.44
+776,football,181.94,215.44
+776,water bottle,263.99,379.32
+776,vitamin bottle,255.89,204.29
+777,football,181.61,214.72
+777,water bottle,264.45,378.36
+777,vitamin bottle,255.66,203.36
+778,football,180.86,213.66
+778,water bottle,264.28,376.70
+778,vitamin bottle,254.77,202.10
+779,football,179.36,214.62
+779,water bottle,262.86,377.12
+779,vitamin bottle,253.08,202.95
+780,football,176.96,215.78
+780,water bottle,260.58,377.26
+780,vitamin bottle,250.21,203.85
+781,football,175.19,215.43
+781,water bottle,259.31,376.22
+781,vitamin bottle,248.46,203.38
+782,football,175.68,215.44
+782,water bottle,259.86,375.97
+782,vitamin bottle,248.74,203.18
+783,football,177.32,215.49
+783,water bottle,261.96,376.33
+783,vitamin bottle,250.41,203.26
+784,football,179.31,215.53
+784,water bottle,264.14,376.56
+784,vitamin bottle,252.39,203.30
+785,football,180.68,216.16
+785,water bottle,266.25,377.34
+785,vitamin bottle,253.93,203.88
+786,football,181.95,216.62
+786,water bottle,267.76,377.80
+786,vitamin bottle,255.29,204.26
+787,football,182.79,216.41
+787,water bottle,268.76,377.59
+787,vitamin bottle,255.75,203.97
+788,football,182.47,216.75
+788,water bottle,268.22,377.55
+788,vitamin bottle,255.72,204.40
+789,football,181.49,217.75
+789,water bottle,266.92,378.28
+789,vitamin bottle,254.19,205.57
+790,football,181.29,218.33
+790,water bottle,265.97,378.78
+790,vitamin bottle,254.12,206.19
+791,football,181.31,219.66
+791,water bottle,265.49,380.57
+791,vitamin bottle,253.96,207.93
+792,football,182.07,220.62
+792,water bottle,265.78,382.10
+792,vitamin bottle,254.85,209.10
+793,football,182.05,221.35
+793,water bottle,265.44,382.95
+793,vitamin bottle,254.87,209.96
+794,football,180.62,222.84
+794,water bottle,263.51,384.57
+794,vitamin bottle,253.58,211.65
+795,football,179.42,223.18
+795,water bottle,261.36,385.09
+795,vitamin bottle,252.26,212.12
+796,football,179.05,222.80
+796,water bottle,260.17,385.28
+796,vitamin bottle,251.98,212.05
+797,football,179.22,223.21
+797,water bottle,259.75,386.69
+797,vitamin bottle,252.20,212.71
+798,football,178.69,224.39
+798,water bottle,258.98,389.23
+798,vitamin bottle,252.11,214.13
+799,football,178.65,224.43
+799,water bottle,258.68,390.75
+799,vitamin bottle,252.67,214.35
+800,football,178.05,223.96
+800,water bottle,258.63,391.86
+800,vitamin bottle,252.80,213.94
+801,football,177.18,224.64
+801,water bottle,258.04,394.43
+801,vitamin bottle,252.55,214.51
+802,football,176.50,225.52
+802,water bottle,258.21,397.87
+802,vitamin bottle,252.80,215.37
+803,football,175.65,227.09
+803,water bottle,258.08,402.50
+803,vitamin bottle,252.83,216.81
+804,football,174.90,228.80
+804,water bottle,258.37,407.81
+804,vitamin bottle,253.34,218.50
+805,football,173.01,230.91
+805,water bottle,258.06,413.90
+805,vitamin bottle,252.96,220.39
+806,football,172.18,233.21
+806,water bottle,258.49,421.25
+806,vitamin bottle,253.74,222.68
+807,football,171.73,235.97
+807,water bottle,260.08,430.06
+807,vitamin bottle,255.27,225.39
+808,football,170.03,239.26
+808,water bottle,264.19,439.42
+808,vitamin bottle,255.74,228.33
+809,football,167.66,242.20
+809,water bottle,260.45,444.09
+809,vitamin bottle,255.62,230.91
+810,football,164.34,246.09
+810,water bottle,255.65,448.93
+810,vitamin bottle,254.13,234.09
+811,football,161.68,250.66
+811,water bottle,250.55,453.96
+811,vitamin bottle,253.47,237.93
+812,football,159.10,253.57
+812,water bottle,246.14,457.92
+812,vitamin bottle,253.13,239.88
+813,football,158.79,257.05
+813,water bottle,241.27,462.66
+813,vitamin bottle,255.66,242.64
+814,football,155.50,263.66
+814,water bottle,230.03,469.39
+814,vitamin bottle,255.23,249.07
+815,football,150.31,267.71
+815,water bottle,218.79,473.89
+815,vitamin bottle,252.84,252.78
+816,football,146.72,268.21
+816,water bottle,211.81,475.78
+816,vitamin bottle,252.02,252.48
+817,football,141.58,266.85
+817,water bottle,204.93,476.62
+817,vitamin bottle,249.79,250.55
+818,football,135.87,261.67
+818,water bottle,203.22,476.06
+818,vitamin bottle,247.26,244.24
+819,football,132.42,257.28
+819,water bottle,201.28,475.70
+819,vitamin bottle,247.90,238.67
+820,football,130.51,257.61
+820,water bottle,191.61,477.47
+820,vitamin bottle,250.16,238.40
+821,football,130.13,260.69
+821,water bottle,179.59,479.94
+821,vitamin bottle,255.21,240.92
+822,football,131.48,268.14
+822,water bottle,163.61,482.28
+822,vitamin bottle,262.61,247.48
+823,football,131.71,276.37
+823,water bottle,152.54,484.87
+823,vitamin bottle,269.13,254.76
+824,football,130.31,281.54
+824,water bottle,150.24,489.05
+824,vitamin bottle,273.90,258.81
+825,football,126.97,284.93
+825,water bottle,148.80,492.01
+825,vitamin bottle,275.79,260.33
+826,football,122.92,288.89
+826,water bottle,146.22,495.01
+826,vitamin bottle,277.06,263.09
+827,football,121.92,290.40
+827,water bottle,147.23,496.77
+827,vitamin bottle,281.82,263.08
+828,football,121.13,290.87
+828,water bottle,148.20,498.14
+828,vitamin bottle,286.49,261.83
+829,football,119.10,293.72
+829,water bottle,147.81,500.66
+829,vitamin bottle,287.48,263.39
+830,football,118.43,294.45
+830,water bottle,148.21,502.13
+830,vitamin bottle,288.87,262.91
+831,football,118.29,294.46
+831,water bottle,150.14,503.52
+831,vitamin bottle,290.21,261.11
+832,football,116.27,296.95
+832,water bottle,150.83,505.72
+832,vitamin bottle,290.24,262.34
+833,football,113.79,296.40
+833,water bottle,152.06,506.51
+833,vitamin bottle,289.50,260.45
+834,football,110.97,296.52
+834,water bottle,151.09,507.48
+834,vitamin bottle,288.73,259.75
+835,football,108.97,297.29
+835,water bottle,149.41,508.82
+835,vitamin bottle,287.86,260.36
+836,football,107.61,297.31
+836,water bottle,149.24,509.27
+836,vitamin bottle,287.45,259.84
+837,football,107.29,302.33
+837,water bottle,,
+837,vitamin bottle,287.44,264.69
+838,football,106.91,308.06
+838,water bottle,,
+838,vitamin bottle,287.62,270.71
+839,football,106.40,308.37
+839,water bottle,,
+839,vitamin bottle,287.33,270.88
+840,football,104.40,310.32
+840,water bottle,,
+840,vitamin bottle,286.14,273.19
+841,football,101.84,309.00
+841,water bottle,,
+841,vitamin bottle,284.52,272.76
+842,football,97.70,304.59
+842,water bottle,,
+842,vitamin bottle,281.93,269.48
+843,football,92.60,303.14
+843,water bottle,,
+843,vitamin bottle,277.12,268.63
+844,football,87.67,300.76
+844,water bottle,,
+844,vitamin bottle,270.91,267.08
+845,football,83.88,300.37
+845,water bottle,,
+845,vitamin bottle,265.65,266.57
+846,football,80.72,300.72
+846,water bottle,,
+846,vitamin bottle,262.29,267.78
+847,football,78.71,300.56
+847,water bottle,,
+847,vitamin bottle,260.87,266.46
+848,football,76.71,302.32
+848,water bottle,,
+848,vitamin bottle,261.61,267.11
+849,football,70.00,305.93
+849,water bottle,,
+849,vitamin bottle,263.41,267.03
+850,football,64.98,307.88
+850,water bottle,,
+850,vitamin bottle,266.85,263.36
+851,football,64.84,308.20
+851,water bottle,,
+851,vitamin bottle,270.56,261.72
+852,football,64.92,308.25
+852,water bottle,,
+852,vitamin bottle,271.47,261.06
+853,football,64.78,308.34
+853,water bottle,,
+853,vitamin bottle,270.01,259.29
+854,football,64.55,307.72
+854,water bottle,,
+854,vitamin bottle,270.55,256.14
+855,football,64.66,308.62
+855,water bottle,,
+855,vitamin bottle,274.27,256.75
+856,football,65.20,308.92
+856,water bottle,,
+856,vitamin bottle,277.14,256.47
+857,football,66.93,308.81
+857,water bottle,,
+857,vitamin bottle,279.81,257.01
+858,football,70.78,307.74
+858,water bottle,,
+858,vitamin bottle,282.95,255.61
+859,football,78.02,305.98
+859,water bottle,,
+859,vitamin bottle,286.24,251.93
+860,football,86.39,306.65
+860,water bottle,,
+860,vitamin bottle,289.83,251.45
+861,football,91.53,306.10
+861,water bottle,,
+861,vitamin bottle,291.64,252.54
+862,football,93.96,302.21
+862,water bottle,,
+862,vitamin bottle,291.50,250.17
+863,football,96.04,299.86
+863,water bottle,,
+863,vitamin bottle,290.89,250.39
+864,football,99.03,298.90
+864,water bottle,,
+864,vitamin bottle,291.02,251.32
+865,football,103.26,299.20
+865,water bottle,,
+865,vitamin bottle,291.94,252.98
+866,football,105.53,299.31
+866,water bottle,,
+866,vitamin bottle,292.23,254.97
+867,football,104.85,299.45
+867,water bottle,,
+867,vitamin bottle,292.28,255.74
+868,football,101.94,299.94
+868,water bottle,,
+868,vitamin bottle,292.05,256.30
+869,football,96.08,300.50
+869,water bottle,,
+869,vitamin bottle,291.52,256.50
+870,football,92.41,301.34
+870,water bottle,,
+870,vitamin bottle,290.51,258.05
+871,football,91.91,301.50
+871,water bottle,,
+871,vitamin bottle,289.46,260.34
+872,football,91.41,301.51
+872,water bottle,,
+872,vitamin bottle,288.55,263.54
+873,football,91.16,301.79
+873,water bottle,,
+873,vitamin bottle,288.43,270.01
+874,football,91.04,302.06
+874,water bottle,,
+874,vitamin bottle,289.31,275.40
+875,football,91.15,302.05
+875,water bottle,,
+875,vitamin bottle,290.00,275.59
+876,football,91.01,302.00
+876,water bottle,,
+876,vitamin bottle,289.86,275.14
+877,football,90.91,302.18
+877,water bottle,,
+877,vitamin bottle,289.59,276.83
+878,football,90.97,302.42
+878,water bottle,,
+878,vitamin bottle,290.00,279.39
+879,football,91.09,302.36
+879,water bottle,,
+879,vitamin bottle,290.32,281.00
+880,football,90.98,302.36
+880,water bottle,,
+880,vitamin bottle,289.61,282.13
+881,football,90.91,302.50
+881,water bottle,,
+881,vitamin bottle,288.73,283.34
+882,football,90.76,302.42
+882,water bottle,,
+882,vitamin bottle,287.59,285.66
+883,football,90.89,302.54
+883,water bottle,,
+883,vitamin bottle,286.93,288.46
+884,football,90.94,302.54
+884,water bottle,,
+884,vitamin bottle,286.22,290.22
+885,football,91.04,302.65
+885,water bottle,,
+885,vitamin bottle,285.13,291.47
+886,football,91.06,302.63
+886,water bottle,,
+886,vitamin bottle,283.94,290.80
+887,football,91.16,302.70
+887,water bottle,,
+887,vitamin bottle,282.15,288.83
+888,football,91.11,302.70
+888,water bottle,,
+888,vitamin bottle,279.37,286.25
+889,football,91.02,302.85
+889,water bottle,,
+889,vitamin bottle,276.82,282.62
+890,football,90.96,302.80
+890,water bottle,,
+890,vitamin bottle,275.40,278.94
+891,football,91.00,302.91
+891,water bottle,,
+891,vitamin bottle,274.54,277.17
+892,football,90.91,302.95
+892,water bottle,,
+892,vitamin bottle,273.83,275.22
+893,football,90.71,303.10
+893,water bottle,,
+893,vitamin bottle,273.87,272.18
+894,football,90.63,303.03
+894,water bottle,,
+894,vitamin bottle,273.31,269.12
+895,football,90.65,303.13
+895,water bottle,,
+895,vitamin bottle,272.89,267.10
+896,football,90.68,303.24
+896,water bottle,,
+896,vitamin bottle,272.48,265.12
+897,football,90.64,303.31
+897,water bottle,,
+897,vitamin bottle,271.40,262.20
+898,football,90.69,303.26
+898,water bottle,,
+898,vitamin bottle,270.44,257.37
+899,football,90.55,303.25
+899,water bottle,,
+899,vitamin bottle,268.83,253.50
+900,football,90.53,303.36
+900,water bottle,,
+900,vitamin bottle,268.31,251.22
+901,football,90.69,303.29
+901,water bottle,,
+901,vitamin bottle,269.43,249.04
+902,football,90.66,303.29
+902,water bottle,,
+902,vitamin bottle,270.54,246.79
+903,football,90.68,303.26
+903,water bottle,,
+903,vitamin bottle,271.11,246.78
+904,football,90.65,303.24
+904,water bottle,,
+904,vitamin bottle,271.92,247.67
+905,football,90.61,303.12
+905,water bottle,,
+905,vitamin bottle,273.01,246.55
+906,football,90.50,303.13
+906,water bottle,233.18,466.96
+906,vitamin bottle,273.80,247.14
+907,football,90.53,303.13
+907,water bottle,237.73,466.85
+907,vitamin bottle,274.88,249.14
+908,football,90.55,303.05
+908,water bottle,242.35,465.62
+908,vitamin bottle,276.46,249.66
+909,football,90.54,303.03
+909,water bottle,246.54,464.82
+909,vitamin bottle,277.51,250.29
+910,football,90.57,302.94
+910,water bottle,250.49,463.32
+910,vitamin bottle,278.55,249.89
+911,football,90.49,302.96
+911,water bottle,254.06,460.85
+911,vitamin bottle,279.36,248.03
+912,football,90.57,302.97
+912,water bottle,257.46,458.73
+912,vitamin bottle,281.25,246.28
+913,football,90.71,302.98
+913,water bottle,259.95,457.29
+913,vitamin bottle,282.49,245.53
+914,football,90.69,303.00
+914,water bottle,262.26,455.37
+914,vitamin bottle,282.64,243.74
+915,football,90.67,302.93
+915,water bottle,265.21,452.85
+915,vitamin bottle,283.21,240.76
+916,football,90.79,302.94
+916,water bottle,266.99,450.65
+916,vitamin bottle,284.30,238.36
+917,football,90.80,303.00
+917,water bottle,269.32,447.72
+917,vitamin bottle,286.00,234.90
+918,football,90.97,303.03
+918,water bottle,272.34,444.28
+918,vitamin bottle,287.57,230.14
+919,football,90.85,303.07
+919,water bottle,273.68,441.97
+919,vitamin bottle,287.19,227.08
+920,football,90.81,303.07
+920,water bottle,274.93,439.52
+920,vitamin bottle,287.80,224.02
+921,football,91.09,303.19
+921,water bottle,278.07,435.80
+921,vitamin bottle,291.36,219.11
+922,football,91.17,303.14
+922,water bottle,280.23,432.04
+922,vitamin bottle,293.45,214.82
+923,football,91.04,303.24
+923,water bottle,282.22,426.26
+923,vitamin bottle,295.14,208.12
+924,football,90.92,303.05
+924,water bottle,285.50,416.44
+924,vitamin bottle,298.82,197.41
+925,football,91.05,303.15
+925,water bottle,288.08,408.76
+925,vitamin bottle,302.85,189.91
+926,football,91.05,303.35
+926,water bottle,289.50,401.47
+926,vitamin bottle,308.38,182.62
+927,football,91.20,303.35
+927,water bottle,291.68,388.88
+927,vitamin bottle,315.42,170.35
+928,football,91.23,303.33
+928,water bottle,293.10,378.43
+928,vitamin bottle,318.24,160.18
+929,football,91.15,303.36
+929,water bottle,293.54,366.97
+929,vitamin bottle,319.83,149.25
+930,football,91.11,303.37
+930,water bottle,294.23,351.78
+930,vitamin bottle,321.43,134.19
+931,football,91.14,303.32
+931,water bottle,294.97,338.41
+931,vitamin bottle,322.80,120.34
+932,football,91.16,303.44
+932,water bottle,295.15,326.12
+932,vitamin bottle,323.68,108.31
+933,football,91.14,303.41
+933,water bottle,295.12,313.07
+933,vitamin bottle,323.75,95.50
+934,football,91.15,303.41
+934,water bottle,294.65,300.06
+934,vitamin bottle,323.29,82.73
+935,football,91.07,303.42
+935,water bottle,294.11,287.51
+935,vitamin bottle,322.53,69.85
+936,football,91.03,303.36
+936,water bottle,293.60,275.63
+936,vitamin bottle,321.41,58.45
+937,football,91.09,303.41
+937,water bottle,293.02,266.60
+937,vitamin bottle,320.29,49.77
+938,football,90.99,303.44
+938,water bottle,292.12,259.04
+938,vitamin bottle,317.80,44.33
+939,football,90.93,303.41
+939,water bottle,291.91,252.64
+939,vitamin bottle,315.26,40.43
+940,football,90.78,303.34
+940,water bottle,291.20,250.23
+940,vitamin bottle,314.29,39.62
+941,football,90.70,303.24
+941,water bottle,290.61,248.53
+941,vitamin bottle,313.96,38.73
+942,football,90.70,303.16
+942,water bottle,290.55,247.20
+942,vitamin bottle,314.21,37.80
+943,football,90.64,303.05
+943,water bottle,290.60,246.92
+943,vitamin bottle,314.75,37.45
+944,football,90.64,303.12
+944,water bottle,290.90,246.88
+944,vitamin bottle,315.55,37.05
+945,football,90.77,303.04
+945,water bottle,291.50,245.67
+945,vitamin bottle,315.91,35.75
+946,football,90.72,303.04
+946,water bottle,291.35,245.69
+946,vitamin bottle,315.67,35.36
+947,football,90.78,303.00
+947,water bottle,291.09,245.00
+947,vitamin bottle,314.92,34.02
+948,football,90.77,302.85
+948,water bottle,290.93,242.04
+948,vitamin bottle,313.59,30.98
+949,football,90.65,302.74
+949,water bottle,290.68,242.53
+949,vitamin bottle,313.37,30.30
+950,football,90.88,302.76
+950,water bottle,290.87,243.61
+950,vitamin bottle,313.88,29.99
+951,football,90.88,302.74
+951,water bottle,290.51,243.08
+951,vitamin bottle,312.97,28.73
+952,football,90.86,302.68
+952,water bottle,290.07,244.24
+952,vitamin bottle,312.65,28.37
+953,football,90.92,302.72
+953,water bottle,289.84,245.34
+953,vitamin bottle,312.94,28.00
+954,football,90.99,302.65
+954,water bottle,289.88,244.77
+954,vitamin bottle,313.15,26.50
+955,football,90.88,302.60
+955,water bottle,290.07,247.31
+955,vitamin bottle,313.99,27.18
+956,football,90.76,302.51
+956,water bottle,290.30,250.24
+956,vitamin bottle,315.15,28.33
+957,football,90.76,302.53
+957,water bottle,290.76,253.33
+957,vitamin bottle,316.25,29.72
+958,football,90.75,302.50
+958,water bottle,291.46,257.37
+958,vitamin bottle,318.17,31.70
+959,football,90.56,302.45
+959,water bottle,292.03,260.11
+959,vitamin bottle,319.91,32.85
+960,football,90.56,302.40
+960,water bottle,293.94,262.44
+960,vitamin bottle,322.28,33.66
+961,football,90.50,302.42
+961,water bottle,295.08,264.59
+961,vitamin bottle,325.08,34.71
+962,football,90.30,302.44
+962,water bottle,296.56,265.71
+962,vitamin bottle,327.69,34.75
+963,football,90.74,302.51
+963,water bottle,298.72,267.55
+963,vitamin bottle,332.04,35.58
+964,football,90.33,302.87
+964,water bottle,299.93,269.15
+964,vitamin bottle,334.38,36.57
+965,football,89.97,303.14
+965,water bottle,299.94,269.67
+965,vitamin bottle,334.70,36.85
+966,football,89.91,303.09
+966,water bottle,299.80,270.10
+966,vitamin bottle,334.83,37.05
+967,football,89.99,303.19
+967,water bottle,299.91,270.82
+967,vitamin bottle,335.59,37.42
+968,football,90.06,303.35
+968,water bottle,299.99,271.02
+968,vitamin bottle,335.79,37.62
+969,football,90.10,303.27
+969,water bottle,299.83,270.60
+969,vitamin bottle,335.29,37.53
+970,football,90.20,303.22
+970,water bottle,299.97,270.47
+970,vitamin bottle,335.16,37.62
+971,football,90.45,303.23
+971,water bottle,300.20,270.16
+971,vitamin bottle,335.41,37.58
+972,football,91.11,303.50
+972,water bottle,300.59,270.43
+972,vitamin bottle,335.63,37.93
+973,football,92.04,303.31
+973,water bottle,301.05,270.72
+973,vitamin bottle,336.38,38.30
+974,football,91.45,304.21
+974,water bottle,300.80,272.42
+974,vitamin bottle,336.12,39.84
+975,football,92.34,310.59
+975,water bottle,300.92,277.36
+975,vitamin bottle,336.93,44.24
+976,football,93.96,316.81
+976,water bottle,301.45,283.75
+976,vitamin bottle,338.53,50.21
+977,football,95.85,320.75
+977,water bottle,301.79,287.49
+977,vitamin bottle,339.80,53.43
+978,football,97.81,321.13
+978,water bottle,302.01,287.74
+978,vitamin bottle,341.44,52.44
+979,football,98.88,318.12
+979,water bottle,301.59,284.74
+979,vitamin bottle,341.04,48.95
+980,football,99.61,315.71
+980,water bottle,301.22,282.21
+980,vitamin bottle,339.04,46.81
+981,football,99.54,314.36
+981,water bottle,300.36,280.65
+981,vitamin bottle,335.94,46.35
+982,football,98.54,312.81
+982,water bottle,299.21,279.20
+982,vitamin bottle,330.78,46.70
+983,football,99.02,311.08
+983,water bottle,298.84,277.52
+983,vitamin bottle,334.30,45.33
+984,football,101.54,311.35
+984,water bottle,299.48,277.24
+984,vitamin bottle,336.11,46.63
+985,football,103.91,314.00
+985,water bottle,300.34,279.59
+985,vitamin bottle,337.34,49.34
+986,football,105.37,316.15
+986,water bottle,300.84,281.30
+986,vitamin bottle,337.80,51.94
+987,football,106.70,316.57
+987,water bottle,301.21,281.99
+987,vitamin bottle,334.04,51.84
+988,football,105.79,314.59
+988,water bottle,300.36,281.30
+988,vitamin bottle,336.93,54.07
+989,football,104.98,310.20
+989,water bottle,299.43,278.26
+989,vitamin bottle,335.40,52.14
+990,football,104.24,306.82
+990,water bottle,298.44,276.10
+990,vitamin bottle,334.36,51.47
+991,football,102.08,303.58
+991,water bottle,297.20,274.44
+991,vitamin bottle,332.47,51.46
+992,football,101.85,300.30
+992,water bottle,296.86,272.46
+992,vitamin bottle,331.57,50.80
+993,football,103.10,297.38
+993,water bottle,297.26,270.61
+993,vitamin bottle,331.45,50.03
+994,football,104.15,295.01
+994,water bottle,297.26,269.67
+994,vitamin bottle,331.67,50.73
+995,football,104.68,291.07
+995,water bottle,297.03,267.03
+995,vitamin bottle,330.89,49.93
+996,football,104.90,287.12
+996,water bottle,296.69,264.28
+996,vitamin bottle,329.91,49.10
+997,football,105.69,283.46
+997,water bottle,296.51,262.23
+997,vitamin bottle,329.51,48.86
+998,football,106.29,279.56
+998,water bottle,296.06,259.30
+998,vitamin bottle,328.45,47.97
+999,football,106.81,275.99
+999,water bottle,295.78,255.94
+999,vitamin bottle,326.46,46.58
+1000,football,109.42,273.31
+1000,water bottle,295.94,253.22
+1000,vitamin bottle,325.79,46.00
+1001,football,112.62,269.57
+1001,water bottle,296.55,249.34
+1001,vitamin bottle,325.02,44.40
+1002,football,115.09,265.37
+1002,water bottle,296.57,243.56
+1002,vitamin bottle,322.46,41.14
+1003,football,115.86,264.53
+1003,water bottle,296.29,241.32
+1003,vitamin bottle,319.47,41.10
+1004,football,116.90,262.84
+1004,water bottle,295.56,239.59
+1004,vitamin bottle,317.51,41.68
+1005,football,119.17,257.41
+1005,water bottle,295.63,234.40
+1005,vitamin bottle,315.87,38.87
+1006,football,121.97,253.34
+1006,water bottle,296.18,230.22
+1006,vitamin bottle,315.03,36.98
+1007,football,125.00,253.74
+1007,water bottle,296.65,230.41
+1007,vitamin bottle,315.71,38.41
+1008,football,128.64,255.47
+1008,water bottle,297.29,232.48
+1008,vitamin bottle,317.37,41.46
+1009,football,132.02,257.60
+1009,water bottle,297.93,234.69
+1009,vitamin bottle,317.94,45.91
+1010,football,133.80,260.67
+1010,water bottle,297.70,238.30
+1010,vitamin bottle,315.48,52.96
+1011,football,134.77,263.13
+1011,water bottle,297.47,241.75
+1011,vitamin bottle,312.22,59.86
+1012,football,137.36,263.37
+1012,water bottle,297.87,242.71
+1012,vitamin bottle,312.21,62.60
+1013,football,141.62,264.71
+1013,water bottle,298.97,243.93
+1013,vitamin bottle,313.57,65.18
+1014,football,145.81,267.41
+1014,water bottle,300.07,245.78
+1014,vitamin bottle,314.10,68.63
+1015,football,149.69,270.75
+1015,water bottle,301.15,247.58
+1015,vitamin bottle,313.79,72.32
+1016,football,154.42,273.64
+1016,water bottle,302.34,248.85
+1016,vitamin bottle,314.63,75.11
+1017,football,158.65,278.09
+1017,water bottle,303.59,251.67
+1017,vitamin bottle,314.57,79.63
+1018,football,162.98,282.80
+1018,water bottle,304.84,255.80
+1018,vitamin bottle,315.54,85.55
+1019,football,167.36,283.83
+1019,water bottle,306.40,256.73
+1019,vitamin bottle,318.13,87.09
+1020,football,170.30,284.27
+1020,water bottle,307.20,256.57
+1020,vitamin bottle,319.32,87.50
+1021,football,172.14,286.54
+1021,water bottle,307.73,258.71
+1021,vitamin bottle,319.35,90.86
+1022,football,174.16,288.39
+1022,water bottle,308.44,260.87
+1022,vitamin bottle,320.80,93.98
+1023,football,175.35,289.99
+1023,water bottle,308.73,263.04
+1023,vitamin bottle,321.39,97.00
+1024,football,174.37,291.07
+1024,water bottle,308.16,264.91
+1024,vitamin bottle,319.97,100.02
+1025,football,172.75,290.34
+1025,water bottle,307.42,264.87
+1025,vitamin bottle,317.92,100.61
+1026,football,170.84,288.48
+1026,water bottle,306.58,263.45
+1026,vitamin bottle,315.88,99.21
+1027,football,168.73,288.55
+1027,water bottle,305.71,263.46
+1027,vitamin bottle,313.42,99.67
+1028,football,166.77,288.86
+1028,water bottle,304.89,263.60
+1028,vitamin bottle,310.73,100.11
+1029,football,165.37,288.06
+1029,water bottle,304.60,262.44
+1029,vitamin bottle,308.99,98.89
+1030,football,164.62,287.93
+1030,water bottle,304.18,262.15
+1030,vitamin bottle,308.36,98.50
+1031,football,163.64,289.53
+1031,water bottle,303.91,263.51
+1031,vitamin bottle,307.16,99.95
+1032,football,162.06,291.06
+1032,water bottle,303.21,265.11
+1032,vitamin bottle,305.14,102.01
+1033,football,160.57,291.40
+1033,water bottle,302.63,265.91
+1033,vitamin bottle,303.68,102.88
+1034,football,159.70,290.85
+1034,water bottle,302.32,266.05
+1034,vitamin bottle,303.61,102.77
+1035,football,159.19,291.50
+1035,water bottle,302.16,267.02
+1035,vitamin bottle,303.89,103.58
+1036,football,157.97,293.01
+1036,water bottle,301.81,268.70
+1036,vitamin bottle,302.45,105.66
+1037,football,156.83,293.47
+1037,water bottle,301.41,269.49
+1037,vitamin bottle,301.34,106.50
+1038,football,155.86,292.24
+1038,water bottle,301.03,268.49
+1038,vitamin bottle,300.91,105.18
+1039,football,154.55,291.43
+1039,water bottle,300.34,267.73
+1039,vitamin bottle,299.54,104.26
+1040,football,153.55,292.22
+1040,water bottle,299.77,267.95
+1040,vitamin bottle,298.06,104.77
+1041,football,152.39,293.11
+1041,water bottle,299.33,268.62
+1041,vitamin bottle,296.66,105.54
+1042,football,151.44,292.81
+1042,water bottle,299.12,268.29
+1042,vitamin bottle,295.86,104.98
+1043,football,149.59,292.44
+1043,water bottle,298.26,267.91
+1043,vitamin bottle,294.10,104.65
+1044,football,146.47,292.51
+1044,water bottle,296.90,268.09
+1044,vitamin bottle,290.97,105.04
+1045,football,143.34,292.96
+1045,water bottle,295.44,268.78
+1045,vitamin bottle,287.85,105.89
+1046,football,139.42,293.10
+1046,water bottle,293.45,269.49
+1046,vitamin bottle,284.69,106.96
+1047,football,135.09,292.11
+1047,water bottle,291.09,268.84
+1047,vitamin bottle,281.10,106.35
+1048,football,129.39,292.00
+1048,water bottle,287.89,269.09
+1048,vitamin bottle,275.73,106.61
+1049,football,123.09,292.88
+1049,water bottle,283.97,270.66
+1049,vitamin bottle,270.86,108.31
+1050,football,115.92,293.82
+1050,water bottle,278.64,272.02
+1050,vitamin bottle,265.24,109.58
+1051,football,107.72,294.58
+1051,water bottle,273.66,273.71
+1051,vitamin bottle,259.34,110.65
+1052,football,97.83,294.95
+1052,water bottle,262.44,273.93
+1052,vitamin bottle,252.08,110.89
+1053,football,86.02,296.41
+1053,water bottle,251.13,275.22
+1053,vitamin bottle,243.09,112.21
+1054,football,72.53,298.35
+1054,water bottle,251.92,278.34
+1054,vitamin bottle,232.17,113.88
+1055,football,56.67,301.02
+1055,water bottle,223.63,278.67
+1055,vitamin bottle,218.98,116.48
+1056,football,41.15,302.48
+1056,water bottle,210.15,280.13
+1056,vitamin bottle,207.47,117.68
+1057,football,30.10,301.37
+1057,water bottle,199.26,278.91
+1057,vitamin bottle,198.75,114.97
+1058,football,22.66,301.62
+1058,water bottle,189.21,279.00
+1058,vitamin bottle,190.37,113.38
+1059,football,16.88,303.22
+1059,water bottle,180.60,280.64
+1059,vitamin bottle,183.67,112.93
+1060,football,12.01,304.30
+1060,water bottle,173.31,281.72
+1060,vitamin bottle,178.55,111.18
+1061,football,7.28,304.92
+1061,water bottle,166.02,282.45
+1061,vitamin bottle,174.23,108.71
+1062,football,2.11,308.22
+1062,water bottle,157.87,284.88
+1062,vitamin bottle,169.61,107.69
+1063,football,,
+1063,water bottle,150.95,287.89
+1063,vitamin bottle,165.49,106.82
+1064,football,,
+1064,water bottle,145.12,289.27
+1064,vitamin bottle,162.35,102.92
+1065,football,,
+1065,water bottle,138.60,292.29
+1065,vitamin bottle,159.29,101.41
+1066,football,,
+1066,water bottle,134.35,295.27
+1066,vitamin bottle,156.63,99.24
+1067,football,,
+1067,water bottle,129.22,297.97
+1067,vitamin bottle,153.54,96.63
+1068,football,,
+1068,water bottle,124.30,303.07
+1068,vitamin bottle,151.48,96.50
+1069,football,,
+1069,water bottle,121.02,308.20
+1069,vitamin bottle,148.92,95.96
+1070,football,,
+1070,water bottle,118.09,311.11
+1070,vitamin bottle,142.99,92.18
+1071,football,,
+1071,water bottle,114.39,310.68
+1071,vitamin bottle,133.42,85.12
+1072,football,,
+1072,water bottle,110.68,310.24
+1072,vitamin bottle,121.15,78.55
+1073,football,,
+1073,water bottle,108.28,310.63
+1073,vitamin bottle,111.13,73.07
+1074,football,,
+1074,water bottle,108.20,311.23
+1074,vitamin bottle,104.59,68.04
+1075,football,,
+1075,water bottle,111.00,310.47
+1075,vitamin bottle,103.64,61.52
+1076,football,,
+1076,water bottle,116.10,312.15
+1076,vitamin bottle,104.91,56.96
+1077,football,,
+1077,water bottle,118.96,314.84
+1077,vitamin bottle,103.81,54.03
+1078,football,,
+1078,water bottle,121.41,317.37
+1078,vitamin bottle,100.65,53.64
+1079,football,,
+1079,water bottle,124.80,318.08
+1079,vitamin bottle,100.38,50.49
+1080,football,,
+1080,water bottle,127.64,320.55
+1080,vitamin bottle,100.01,48.72
+1081,football,,
+1081,water bottle,127.14,325.36
+1081,vitamin bottle,97.29,49.43
+1082,football,,
+1082,water bottle,128.46,328.60
+1082,vitamin bottle,95.63,48.30
+1083,football,,
+1083,water bottle,128.47,327.86
+1083,vitamin bottle,92.47,44.76
+1084,football,,
+1084,water bottle,126.94,328.52
+1084,vitamin bottle,87.27,42.81
+1085,football,,
+1085,water bottle,126.33,330.09
+1085,vitamin bottle,84.21,41.94
+1086,football,,
+1086,water bottle,127.64,330.03
+1086,vitamin bottle,83.98,40.08
+1087,football,,
+1087,water bottle,130.57,327.15
+1087,vitamin bottle,82.62,36.43
+1088,football,,
+1088,water bottle,130.48,327.98
+1088,vitamin bottle,81.81,35.94
+1089,football,,
+1089,water bottle,132.16,327.61
+1089,vitamin bottle,83.85,34.23
+1090,football,,
+1090,water bottle,138.28,320.69
+1090,vitamin bottle,86.77,28.25
+1091,football,,
+1091,water bottle,144.16,316.01
+1091,vitamin bottle,92.41,25.14
+1092,football,,
+1092,water bottle,141.14,322.25
+1092,vitamin bottle,98.82,30.65
+1093,football,,
+1093,water bottle,140.56,315.94
+1093,vitamin bottle,96.84,27.87
+1094,football,,
+1094,water bottle,139.59,311.07
+1094,vitamin bottle,94.15,25.73
+1095,football,,
+1095,water bottle,134.77,309.59
+1095,vitamin bottle,91.45,25.65
+1096,football,,
+1096,water bottle,133.42,308.16
+1096,vitamin bottle,90.03,25.03
+1097,football,,
+1097,water bottle,133.77,308.08
+1097,vitamin bottle,92.05,24.33
+1098,football,,
+1098,water bottle,134.00,309.99
+1098,vitamin bottle,93.87,24.46
+1099,football,,
+1099,water bottle,132.88,311.16
+1099,vitamin bottle,94.49,24.92
+1100,football,,
+1100,water bottle,133.01,311.51
+1100,vitamin bottle,95.90,25.30
+1101,football,,
+1101,water bottle,129.70,318.54
+1101,vitamin bottle,95.81,26.42
+1102,football,,
+1102,water bottle,127.44,325.92
+1102,vitamin bottle,94.32,25.36
+1103,football,,
+1103,water bottle,126.32,324.39
+1103,vitamin bottle,94.46,23.99
+1104,football,,
+1104,water bottle,128.40,325.42
+1104,vitamin bottle,95.27,24.42
+1105,football,,
+1105,water bottle,129.80,325.16
+1105,vitamin bottle,96.83,25.23
+1106,football,,
+1106,water bottle,131.49,325.56
+1106,vitamin bottle,97.90,25.84
+1107,football,,
+1107,water bottle,133.83,326.27
+1107,vitamin bottle,99.85,26.66
+1108,football,,
+1108,water bottle,132.33,324.92
+1108,vitamin bottle,100.55,27.58
+1109,football,,
+1109,water bottle,132.94,324.14
+1109,vitamin bottle,100.56,28.51
+1110,football,,
+1110,water bottle,134.16,324.19
+1110,vitamin bottle,99.99,28.79
+1111,football,,
+1111,water bottle,134.89,324.33
+1111,vitamin bottle,98.34,28.32
+1112,football,,
+1112,water bottle,135.16,324.45
+1112,vitamin bottle,97.55,28.09
+1113,football,,
+1113,water bottle,135.19,324.41
+1113,vitamin bottle,97.26,28.12
+1114,football,,
+1114,water bottle,135.12,324.26
+1114,vitamin bottle,96.26,28.18
+1115,football,,
+1115,water bottle,135.28,324.27
+1115,vitamin bottle,96.80,28.53
+1116,football,,
+1116,water bottle,135.33,324.14
+1116,vitamin bottle,96.86,28.76
+1117,football,,
+1117,water bottle,134.56,323.73
+1117,vitamin bottle,97.30,29.50
+1118,football,,
+1118,water bottle,134.17,323.32
+1118,vitamin bottle,99.20,30.39
+1119,football,,
+1119,water bottle,134.41,323.66
+1119,vitamin bottle,99.84,30.20
+1120,football,,
+1120,water bottle,134.41,323.59
+1120,vitamin bottle,98.32,30.11
+1121,football,,
+1121,water bottle,134.20,323.40
+1121,vitamin bottle,96.25,30.27
+1122,football,,
+1122,water bottle,134.34,323.51
+1122,vitamin bottle,95.01,30.13
+1123,football,,
+1123,water bottle,134.27,323.43
+1123,vitamin bottle,93.57,29.89
+1124,football,,
+1124,water bottle,134.18,323.48
+1124,vitamin bottle,95.74,30.16
+1125,football,,
+1125,water bottle,133.63,323.22
+1125,vitamin bottle,99.42,30.59
+1126,football,,
+1126,water bottle,132.82,322.85
+1126,vitamin bottle,101.77,31.70
+1127,football,,
+1127,water bottle,132.70,322.57
+1127,vitamin bottle,104.37,32.58
+1128,football,,
+1128,water bottle,132.87,322.46
+1128,vitamin bottle,105.40,33.37
+1129,football,,
+1129,water bottle,132.16,321.50
+1129,vitamin bottle,104.91,35.22
+1130,football,,
+1130,water bottle,131.87,321.68
+1130,vitamin bottle,105.77,37.47
+1131,football,,
+1131,water bottle,132.30,321.07
+1131,vitamin bottle,105.75,40.92
+1132,football,,
+1132,water bottle,132.82,320.82
+1132,vitamin bottle,107.69,45.94
+1133,football,,
+1133,water bottle,133.19,321.02
+1133,vitamin bottle,112.26,51.73
+1134,football,,
+1134,water bottle,133.49,321.16
+1134,vitamin bottle,112.79,55.28
+1135,football,,
+1135,water bottle,133.71,321.32
+1135,vitamin bottle,112.85,57.11
+1136,football,,
+1136,water bottle,134.17,321.30
+1136,vitamin bottle,111.92,56.83
+1137,football,,
+1137,water bottle,133.56,320.93
+1137,vitamin bottle,110.41,56.96
+1138,football,,
+1138,water bottle,133.17,320.77
+1138,vitamin bottle,112.15,60.45
+1139,football,,
+1139,water bottle,132.94,320.90
+1139,vitamin bottle,112.53,65.11
+1140,football,,
+1140,water bottle,132.70,320.93
+1140,vitamin bottle,112.34,71.83
+1141,football,,
+1141,water bottle,132.74,320.84
+1141,vitamin bottle,112.85,79.65
+1142,football,,
+1142,water bottle,132.23,320.86
+1142,vitamin bottle,113.63,88.17
+1143,football,,
+1143,water bottle,132.43,320.69
+1143,vitamin bottle,115.95,100.37
+1144,football,,
+1144,water bottle,131.82,320.85
+1144,vitamin bottle,118.11,113.60
+1145,football,,
+1145,water bottle,131.74,320.90
+1145,vitamin bottle,121.11,126.74
+1146,football,,
+1146,water bottle,132.25,320.68
+1146,vitamin bottle,124.90,138.61
+1147,football,,
+1147,water bottle,132.16,320.62
+1147,vitamin bottle,128.16,148.53
+1148,football,,
+1148,water bottle,132.17,320.50
+1148,vitamin bottle,131.25,158.34
+1149,football,,
+1149,water bottle,132.83,320.49
+1149,vitamin bottle,136.39,169.86
+1150,football,,
+1150,water bottle,133.17,320.25
+1150,vitamin bottle,140.19,177.93
+1151,football,,
+1151,water bottle,133.01,320.27
+1151,vitamin bottle,143.49,185.15
+1152,football,,
+1152,water bottle,133.18,320.33
+1152,vitamin bottle,147.10,192.15
+1153,football,,
+1153,water bottle,133.46,320.22
+1153,vitamin bottle,151.76,197.55
+1154,football,,
+1154,water bottle,133.47,320.18
+1154,vitamin bottle,155.45,202.53
+1155,football,,
+1155,water bottle,133.54,320.16
+1155,vitamin bottle,154.33,206.79
+1156,football,,
+1156,water bottle,133.60,320.38
+1156,vitamin bottle,,
+1157,football,,
+1157,water bottle,133.71,320.56
+1157,vitamin bottle,,
+1158,football,,
+1158,water bottle,133.77,320.52
+1158,vitamin bottle,,
+1159,football,,
+1159,water bottle,133.75,320.55
+1159,vitamin bottle,,
+1160,football,,
+1160,water bottle,133.84,320.60
+1160,vitamin bottle,,
+1161,football,,
+1161,water bottle,133.77,320.74
+1161,vitamin bottle,,
+1162,football,,
+1162,water bottle,133.91,320.79
+1162,vitamin bottle,,
+1163,football,,
+1163,water bottle,134.03,321.04
+1163,vitamin bottle,,
+1164,football,,
+1164,water bottle,134.05,321.03
+1164,vitamin bottle,,
+1165,football,,
+1165,water bottle,133.85,320.98
+1165,vitamin bottle,,
+1166,football,,
+1166,water bottle,133.79,320.94
+1166,vitamin bottle,,
+1167,football,,
+1167,water bottle,133.82,320.98
+1167,vitamin bottle,,
+1168,football,,
+1168,water bottle,133.87,320.95
+1168,vitamin bottle,,
+1169,football,,
+1169,water bottle,133.77,320.96
+1169,vitamin bottle,,
+1170,football,,
+1170,water bottle,133.73,320.79
+1170,vitamin bottle,,
+1171,football,,
+1171,water bottle,133.27,320.43
+1171,vitamin bottle,,
+1172,football,,
+1172,water bottle,133.21,320.43
+1172,vitamin bottle,,
+1173,football,,
+1173,water bottle,133.09,320.29
+1173,vitamin bottle,,
+1174,football,,
+1174,water bottle,133.03,320.20
+1174,vitamin bottle,,
+1175,football,,
+1175,water bottle,132.99,320.48
+1175,vitamin bottle,,
+1176,football,,
+1176,water bottle,132.91,320.54
+1176,vitamin bottle,,
+1177,football,,
+1177,water bottle,132.77,320.51
+1177,vitamin bottle,,
+1178,football,,
+1178,water bottle,132.53,320.44
+1178,vitamin bottle,,
+1179,football,,
+1179,water bottle,132.63,320.55
+1179,vitamin bottle,,
+1180,football,,
+1180,water bottle,132.89,320.62
+1180,vitamin bottle,,
+1181,football,,
+1181,water bottle,133.09,321.08
+1181,vitamin bottle,,
+1182,football,,
+1182,water bottle,133.72,321.33
+1182,vitamin bottle,,
+1183,football,,
+1183,water bottle,133.03,321.29
+1183,vitamin bottle,,
+1184,football,,
+1184,water bottle,132.27,321.33
+1184,vitamin bottle,,
+1185,football,,
+1185,water bottle,132.07,321.54
+1185,vitamin bottle,,
+1186,football,,
+1186,water bottle,132.02,321.74
+1186,vitamin bottle,,
+1187,football,,
+1187,water bottle,132.31,321.78
+1187,vitamin bottle,,
+1188,football,,
+1188,water bottle,132.49,323.12
+1188,vitamin bottle,,
+1189,football,,
+1189,water bottle,132.24,324.06
+1189,vitamin bottle,,
+1190,football,,
+1190,water bottle,132.92,324.19
+1190,vitamin bottle,,
+1191,football,,
+1191,water bottle,137.84,319.94
+1191,vitamin bottle,,
+1192,football,,
+1192,water bottle,146.22,311.87
+1192,vitamin bottle,,
+1193,football,,
+1193,water bottle,151.48,304.91
+1193,vitamin bottle,,
+1194,football,,
+1194,water bottle,151.64,303.00
+1194,vitamin bottle,,
+1195,football,,
+1195,water bottle,148.93,307.01
+1195,vitamin bottle,,
+1196,football,,
+1196,water bottle,150.63,314.56
+1196,vitamin bottle,,
+1197,football,,
+1197,water bottle,154.61,317.45
+1197,vitamin bottle,,
+1198,football,,
+1198,water bottle,160.92,320.58
+1198,vitamin bottle,,
+1199,football,,
+1199,water bottle,166.62,319.28
+1199,vitamin bottle,,
+1200,football,,
+1200,water bottle,171.14,314.38
+1200,vitamin bottle,,
+1201,football,,
+1201,water bottle,172.50,313.00
+1201,vitamin bottle,,
+1202,football,,
+1202,water bottle,174.43,309.10
+1202,vitamin bottle,,
+1203,football,,
+1203,water bottle,180.09,301.16
+1203,vitamin bottle,,
+1204,football,,
+1204,water bottle,192.16,296.37
+1204,vitamin bottle,,
+1205,football,,
+1205,water bottle,204.71,291.19
+1205,vitamin bottle,,
+1206,football,,
+1206,water bottle,217.26,288.88
+1206,vitamin bottle,,
+1207,football,,
+1207,water bottle,224.45,286.73
+1207,vitamin bottle,,
+1208,football,,
+1208,water bottle,226.78,285.10
+1208,vitamin bottle,,
+1209,football,,
+1209,water bottle,225.15,284.09
+1209,vitamin bottle,,
+1210,football,,
+1210,water bottle,225.18,277.87
+1210,vitamin bottle,,
+1211,football,,
+1211,water bottle,225.74,266.84
+1211,vitamin bottle,,
+1212,football,,
+1212,water bottle,227.88,257.47
+1212,vitamin bottle,,
+1213,football,,
+1213,water bottle,231.83,249.81
+1213,vitamin bottle,,
+1214,football,,
+1214,water bottle,236.91,244.81
+1214,vitamin bottle,,
+1215,football,,
+1215,water bottle,242.89,243.65
+1215,vitamin bottle,,
+1216,football,,
+1216,water bottle,248.19,244.43
+1216,vitamin bottle,,
+1217,football,,
+1217,water bottle,254.13,243.58
+1217,vitamin bottle,,
+1218,football,,
+1218,water bottle,263.19,243.38
+1218,vitamin bottle,,
+1219,football,151.90,443.85
+1219,water bottle,273.50,245.41
+1219,vitamin bottle,,
+1220,football,161.40,444.60
+1220,water bottle,278.95,244.84
+1220,vitamin bottle,,
+1221,football,170.41,443.33
+1221,water bottle,282.41,241.26
+1221,vitamin bottle,,
+1222,football,177.68,440.17
+1222,water bottle,284.22,236.31
+1222,vitamin bottle,,
+1223,football,182.17,437.80
+1223,water bottle,284.61,232.63
+1223,vitamin bottle,,
+1224,football,186.51,435.98
+1224,water bottle,285.35,229.99
+1224,vitamin bottle,,
+1225,football,191.40,434.01
+1225,water bottle,287.12,227.23
+1225,vitamin bottle,,
+1226,football,192.56,431.76
+1226,water bottle,286.64,224.47
+1226,vitamin bottle,,
+1227,football,192.93,428.37
+1227,water bottle,285.57,220.95
+1227,vitamin bottle,,
+1228,football,192.61,424.68
+1228,water bottle,284.55,217.74
+1228,vitamin bottle,,
+1229,football,188.64,420.50
+1229,water bottle,280.97,215.26
+1229,vitamin bottle,,
+1230,football,185.22,415.74
+1230,water bottle,277.58,212.63
+1230,vitamin bottle,,
+1231,football,184.49,409.43
+1231,water bottle,276.79,208.40
+1231,vitamin bottle,,
+1232,football,185.73,404.45
+1232,water bottle,278.42,204.46
+1232,vitamin bottle,,
+1233,football,186.12,401.82
+1233,water bottle,278.59,202.62
+1233,vitamin bottle,,
+1234,football,184.58,400.10
+1234,water bottle,277.01,201.62
+1234,vitamin bottle,,
+1235,football,181.24,398.56
+1235,water bottle,274.14,201.72
+1235,vitamin bottle,,
+1236,football,176.92,394.85
+1236,water bottle,270.79,200.59
+1236,vitamin bottle,,
+1237,football,174.40,389.23
+1237,water bottle,262.88,197.23
+1237,vitamin bottle,,
+1238,football,172.44,386.56
+1238,water bottle,259.37,196.67
+1238,vitamin bottle,,
+1239,football,168.83,384.52
+1239,water bottle,255.89,196.53
+1239,vitamin bottle,,
+1240,football,166.54,380.70
+1240,water bottle,252.52,194.28
+1240,vitamin bottle,,
+1241,football,166.09,377.25
+1241,water bottle,251.29,191.48
+1241,vitamin bottle,,
+1242,football,166.73,376.46
+1242,water bottle,252.18,191.24
+1242,vitamin bottle,,
+1243,football,168.20,376.32
+1243,water bottle,252.73,191.23
+1243,vitamin bottle,,
+1244,football,169.77,375.42
+1244,water bottle,253.03,190.53
+1244,vitamin bottle,,
+1245,football,170.38,374.18
+1245,water bottle,254.23,189.30
+1245,vitamin bottle,,
+1246,football,169.35,372.97
+1246,water bottle,252.69,188.07
+1246,vitamin bottle,,
+1247,football,168.69,372.30
+1247,water bottle,249.87,186.98
+1247,vitamin bottle,,
+1248,football,168.55,372.32
+1248,water bottle,250.22,186.65
+1248,vitamin bottle,,
+1249,football,168.23,372.52
+1249,water bottle,248.19,186.40
+1249,vitamin bottle,,
+1250,football,168.19,372.35
+1250,water bottle,247.41,186.02
+1250,vitamin bottle,,
+1251,football,167.09,371.46
+1251,water bottle,245.25,185.06
+1251,vitamin bottle,,
+1252,football,164.74,370.60
+1252,water bottle,242.40,184.22
+1252,vitamin bottle,,
+1253,football,161.93,368.80
+1253,water bottle,238.31,182.35
+1253,vitamin bottle,,
+1254,football,159.83,366.87
+1254,water bottle,233.54,179.96
+1254,vitamin bottle,,
+1255,football,158.81,366.38
+1255,water bottle,232.39,178.65
+1255,vitamin bottle,,
+1256,football,158.26,366.06
+1256,water bottle,230.30,177.55
+1256,vitamin bottle,,
+1257,football,158.43,365.54
+1257,water bottle,229.05,176.18
+1257,vitamin bottle,,
+1258,football,158.67,364.32
+1258,water bottle,227.98,174.19
+1258,vitamin bottle,,
+1259,football,159.34,362.52
+1259,water bottle,227.60,171.85
+1259,vitamin bottle,,
+1260,football,160.43,360.34
+1260,water bottle,228.65,169.44
+1260,vitamin bottle,,
+1261,football,161.53,357.69
+1261,water bottle,229.67,166.48
+1261,vitamin bottle,,
+1262,football,162.17,355.68
+1262,water bottle,230.22,164.15
+1262,vitamin bottle,,
+1263,football,163.72,353.91
+1263,water bottle,231.58,162.06
+1263,vitamin bottle,,
+1264,football,165.32,351.95
+1264,water bottle,233.28,159.70
+1264,vitamin bottle,,
+1265,football,166.56,349.29
+1265,water bottle,234.20,156.33
+1265,vitamin bottle,,
+1266,football,167.02,345.85
+1266,water bottle,234.44,152.08
+1266,vitamin bottle,,
+1267,football,167.42,343.43
+1267,water bottle,233.37,148.73
+1267,vitamin bottle,,
+1268,football,168.37,341.66
+1268,water bottle,233.00,145.90
+1268,vitamin bottle,,
+1269,football,168.92,340.14
+1269,water bottle,232.82,143.61
+1269,vitamin bottle,,
+1270,football,169.06,339.03
+1270,water bottle,232.78,142.18
+1270,vitamin bottle,,
+1271,football,170.54,335.75
+1271,water bottle,234.56,138.32
+1271,vitamin bottle,,
+1272,football,170.19,334.69
+1272,water bottle,234.83,137.46
+1272,vitamin bottle,,
+1273,football,169.49,334.32
+1273,water bottle,234.74,137.37
+1273,vitamin bottle,,
+1274,football,168.96,332.87
+1274,water bottle,234.66,136.18
+1274,vitamin bottle,,
