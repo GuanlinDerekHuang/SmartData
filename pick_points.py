@@ -10,7 +10,7 @@ A window opens showing the first RGB frame. Controls:
     press 2  -> then click the RIGHT gripper finger
     left-click  = positive point (this pixel IS the finger)
     right-click = negative point (this pixel is NOT the finger)
-    s = save prompts.json and quit
+    Enter = save prompts.json and quit
     q = quit without saving
 
 Tip: 1-2 positive clicks per finger plus a couple of negatives on the
