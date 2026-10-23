@@ -56,7 +56,7 @@ def is_raw_trial(folder):
 
 
 def run(env, script, argv, dry):
-    cmd = ["conda", "run", "-n", ENVS[env], "python", script] + argv
+    cmd = ["conda", "run", "--no-capture-output", "-n", ENVS[env], "python", script] + argv
     print(f"    $ {' '.join(cmd)}")
     return 0 if dry else subprocess.call(cmd)
 
@@ -114,15 +114,19 @@ def package(scope_path, repo_id, zarr_out, args):
         print("  ==> lerobot")
         # a single trial uses the single-trial converter; a root uses the batch one
         if is_raw_trial(scope_path):
-            run("lerobot", "convert_to_lerobot.py",
-                [scope_path, "--repo-id", repo_id, "--overwrite"], args.dry_run)
+            rc = run("lerobot", "convert_to_lerobot.py",
+                     [scope_path, "--repo-id", repo_id, "--overwrite"], args.dry_run)
         else:
-            run("lerobot", "convert_all_to_lerobot.py",
-                ["--root", scope_path, "--repo-id", repo_id, "--overwrite"], args.dry_run)
+            rc = run("lerobot", "convert_all_to_lerobot.py",
+                     ["--root", scope_path, "--repo-id", repo_id, "--overwrite"], args.dry_run)
+        if rc != 0:
+            raise SystemExit(f"LeRobot packaging failed (exit {rc}).")
     if not args.no_zarr:
         print("  ==> zarr")
-        run("lerobot", "convert_to_zarr.py",
-            ["--root", scope_path, "--out", zarr_out], args.dry_run)
+        rc = run("lerobot", "convert_to_zarr.py",
+                 ["--root", scope_path, "--out", zarr_out], args.dry_run)
+        if rc != 0:
+            raise SystemExit(f"Zarr packaging failed (exit {rc}).")
 
 
 # ---------------------------------------------------------------- modes

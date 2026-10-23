@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+*.zarr/
+*.rrd
+gripper_masks.npz
+*_preview.mp4
+contact_points.png
+contact_preview.png

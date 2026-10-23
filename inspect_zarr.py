@@ -17,6 +17,7 @@ img = store["data/img"]
 state = store["data/state"]
 action = store["data/action"]
 ends = store["meta/episode_ends"][:]
+names = list(store.attrs.get("episode_names", []))
 
 n = img.shape[0]
 print(f"store: {path}")
@@ -30,7 +31,8 @@ print(f"action shape: {tuple(action.shape)}  {action.dtype}")
 starts = np.concatenate([[0], ends[:-1]])
 print("\nepisodes (from episode_ends):")
 for k, (a, b) in enumerate(zip(starts, ends)):
-    print(f"  episode {k}: steps [{a}:{b}]  ({b - a} steps)")
+    label = f"  <- {names[k]}" if k < len(names) else ""
+    print(f"  episode {k}: steps [{a}:{b}]  ({b - a} steps){label}")
 
 # sanity totals
 if ends[-1] != n:

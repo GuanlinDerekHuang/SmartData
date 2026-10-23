@@ -117,6 +117,7 @@ def main():
 
     # --- accumulate every step of every episode ---
     all_img, all_state, all_action, episode_ends = [], [], [], []
+    episode_names = []
     running = 0
     for t in trials:
         name = os.path.basename(t)
@@ -137,6 +138,7 @@ def main():
 
         running += (n - 1)
         episode_ends.append(running)       # cumulative end index
+        episode_names.append(name)
         print(f"  + {name}: {n-1} steps  (ends at {running})")
 
     img = np.asarray(all_img, dtype=np.uint8)          # (N, H, W, 3)
@@ -147,6 +149,8 @@ def main():
 
     # --- write the zarr store ---
     store = zarr.open(args.out, mode="w")
+    # which trial folder each episode came from, in episode order
+    store.attrs["episode_names"] = episode_names
     data = store.create_group("data")
     meta = store.create_group("meta")
 
