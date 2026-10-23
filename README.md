@@ -127,7 +127,7 @@ AnySense trial (RGB + Depth + Pose)
 | 7 | `convert_to_lerobot.py` / `convert_all_to_lerobot.py` | lerobot | One trial / all labeled trials → LeRobotDataset v3 | `~/.cache/huggingface/lerobot/SmartData/...` |
 | 8 | `convert_to_zarr.py` | lerobot | One trial / all labeled trials → Diffusion Policy-style Zarr | `<TRIAL>/<TRIAL>.zarr` or `combined.zarr` |
 | — | `inspect_dataset.py` / `inspect_zarr.py` | lerobot | Validate each dataset format | printed report |
-| — | `ground_targets.py` | molmo | MolmoPoint variant of step 4 (needs a CUDA GPU with ~18 GB; see notes) | `contact_points.json` |
+| — | `archive/grounding/ground_targets.py` | molmo | MolmoPoint variant of step 4, not used by main.py; run it directly (needs a CUDA GPU with ~18 GB; see notes) | `contact_points.json` |
 
 ---
 
