@@ -12,6 +12,7 @@ Two modes:
 
 Stages:
   LABELING (per-trial):   sam2 -> contact -> [ground -> track] -> rrd
+                          ground uses --grounder moondream (default) or molmopoint
   PACKAGING (per scope):  lerobot, zarr
 
 pick_points is manual (the fingers move between trials), so it is never automated.
@@ -22,6 +23,7 @@ In --all mode, trials without a prompts.json are skipped with a note.
 Examples:
     python main.py 2026-07-10-07_07_34
     python main.py 2026-07-10-07_07_34 --ground "football" "water bottle"
+    python main.py 2026-07-10-07_07_34 --ground "football" --grounder molmopoint
     python main.py 2026-07-10-07_07_34 --from contact --to zarr
     python main.py 2026-07-10-07_07_34 --force sam2
     python main.py --all
@@ -37,6 +39,30 @@ import subprocess
 ENVS = {"base": "base", "molmo": "molmo", "lerobot": "lerobot"}
 
 LABEL_STAGES = ["sam2", "contact", "ground", "track", "rrd"]
+
+# Grounding models: (script, conda env). Both write contact_points.json, which
+# SAM 2 then tracks in the "track" stage.
+GROUNDERS = {
+    "moondream": ("ground_targets_moondream.py", "molmo"),   # runs on Apple Silicon / CPU
+    "molmopoint": ("ground_targets_molmopoint.py", "molmo"), # needs an NVIDIA GPU (~24 GB)
+}
+
+# Output file of each labeling stage, and which stages' outputs it is built from.
+OUTPUTS = {
+    "sam2": "gripper_state.csv",
+    "contact": "contact_anchors.json",
+    "ground": "contact_points.json",
+    "track": "target_track.csv",
+    "rrd": "phone_gripper_capture.rrd",
+}
+DEPS = {
+    "sam2": [],
+    "contact": ["sam2"],
+    "ground": [],
+    "track": ["ground"],
+    "rrd": ["sam2", "contact", "ground", "track"],
+}
+MTIME_SLACK = 2.0   # seconds; a git checkout writes files a moment apart
 ALL_STAGES = LABEL_STAGES + ["lerobot", "zarr"]
 
 
@@ -61,14 +87,35 @@ def run(env, script, argv, dry):
     return 0 if dry else subprocess.call(cmd)
 
 
-def stage_done(stage, trial):
-    return {
-        "sam2": exists(trial, "gripper_state.csv"),
-        "contact": exists(trial, "contact_anchors.json"),
-        "ground": exists(trial, "contact_points.json"),
-        "track": exists(trial, "target_track.csv"),
-        "rrd": exists(trial, "phone_gripper_capture.rrd"),
-    }.get(stage, False)
+def grounding_matches(trial, args):
+    """True if contact_points.json was made by the selected model for the same objects."""
+    import json
+    try:
+        with open(os.path.join(trial, "contact_points.json")) as f:
+            info = json.load(f)
+    except (OSError, ValueError):
+        return False
+    model = info.get("model", "moondream")   # files from before this field existed
+    prompts = sorted(info.get("points", {}).keys())
+    return model == args.grounder and prompts == sorted(args.ground or [])
+
+
+def stage_done(stage, trial, args, rerun):
+    """A stage is done if its output exists, matches the requested settings,
+    and is newer than the outputs it was built from."""
+    out = os.path.join(trial, OUTPUTS[stage])
+    if not os.path.exists(out):
+        return False
+    if stage == "ground" and not grounding_matches(trial, args):
+        return False
+    for dep in DEPS[stage]:
+        if dep in rerun:                       # an upstream stage is re-running now
+            return False
+        dep_out = os.path.join(trial, OUTPUTS[dep])
+        if os.path.exists(dep_out) and \
+                os.path.getmtime(dep_out) > os.path.getmtime(out) + MTIME_SLACK:
+            return False                       # upstream changed since this was built
+    return True
 
 
 def run_label_stage(stage, trial, args, dry):
@@ -77,7 +124,8 @@ def run_label_stage(stage, trial, args, dry):
     if stage == "contact":
         return run("base", "extract_contact_anchor.py", [trial], dry)
     if stage == "ground":
-        return run("molmo", "ground_targets_moondream.py", [trial] + args.ground, dry)
+        script, env = GROUNDERS[args.grounder]
+        return run(env, script, [trial] + args.ground, dry)
     if stage == "track":
         return run("base", "extract_target_track.py", [trial], dry)
     if stage == "rrd":
@@ -88,6 +136,7 @@ def run_label_stage(stage, trial, args, dry):
 def label_one_trial(trial, args, stages):
     """Run the selected labeling stages for one trial. Returns True on success."""
     forced = (lambda s: args.force == "ALL" or args.force == s)
+    rerun = set()
     for stage in stages:
         if stage in ("ground", "track") and not args.ground:
             continue
@@ -96,10 +145,12 @@ def label_one_trial(trial, args, stages):
         if stage == "sam2" and not exists(trial, "prompts.json"):
             print(f"  !! {trial}: no prompts.json — run pick_points.py first; skipping trial.")
             return False
-        if stage_done(stage, trial) and not forced(stage):
-            print(f"  {stage:8s} skip (exists)")
+        if stage_done(stage, trial, args, rerun) and not forced(stage):
+            print(f"  {stage:8s} skip (up to date)")
             continue
-        print(f"  ==> {stage}")
+        label = f" ({args.grounder})" if stage == "ground" else ""
+        print(f"  ==> {stage}{label}")
+        rerun.add(stage)
         rc = run_label_stage(stage, trial, args, args.dry_run)
         if rc != 0:
             print(f"  !! stage '{stage}' failed on {trial} (exit {rc}).")
@@ -195,6 +246,9 @@ def main():
     ap.add_argument("--root", default=".", help="root of trial folders (--all mode)")
     ap.add_argument("--ground", metavar="OBJECT", nargs="+", default=None,
                     help='grounding target(s), e.g. --ground "football" "water bottle"')
+    ap.add_argument("--grounder", choices=sorted(GROUNDERS), default="moondream",
+                    help="grounding model for --ground: moondream (default, runs on a Mac) "
+                         "or molmopoint (needs an NVIDIA GPU with ~24 GB)")
     ap.add_argument("--repo-id", default=None, help="LeRobot repo id (override default)")
     ap.add_argument("--zarr", default=None, help="output .zarr path (override default)")
     ap.add_argument("--no-rrd", action="store_true", help="skip the Rerun .rrd")

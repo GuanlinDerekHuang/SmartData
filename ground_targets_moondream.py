@@ -136,7 +136,8 @@ def main():
 
     json_path = os.path.join(folder, "contact_points.json")
     with open(json_path, "w") as f:
-        json.dump({"frame_idx": FRAME_IDX, "frame_size": [W, H],
+        json.dump({"model": "moondream", "model_id": MODEL_ID,
+                   "frame_idx": FRAME_IDX, "frame_size": [W, H],
                    "points": results}, f, indent=2)
     png_path = os.path.join(folder, "contact_points.png")
     cv2.imwrite(png_path, vis)
