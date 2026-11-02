@@ -1,0 +1,128 @@
+{
+  "t_start_wall_s": 1792799468.4002047,
+  "t_end_wall_s": 1792799522.4978774,
+  "duration_s": 54.09767270088196,
+  "episode_idx": 17,
+  "step_count": 269,
+  "experiment": "data_collection_phase_label",
+  "notes": "",
+  "task": "sorting_phase_data_collection_17",
+  "instruction": "sorting all fruits to blue bin and others to white bin",
+  "recording": {
+    "format": "jsonl+jpg",
+    "steps_file": "steps.jsonl",
+    "cameras": [
+      "left",
+      "wrist"
+    ],
+    "jpeg_quality": 85
+  },
+  "policy": {
+    "name": "teleop_so101"
+  },
+  "inference_time": {
+    "count": 0
+  },
+  "control": {
+    "rate_hz": 100.0,
+    "record_rate_hz": 14.285714285714286,
+    "requested_record_rate_hz": 15.0,
+    "min_z": 0.23,
+    "action_step_limit": -1
+  },
+  "schema": {
+    "steps_jsonl": {
+      "t_wall_s": "float",
+      "seq": "int",
+      "images": {
+        "left": "relpath",
+        "wrist": "relpath",
+        "right": "relpath"
+      },
+      "state": {
+        "positions": "float[8] (last is gripper_position_frac in [0,1])",
+        "velocities": "float[8] (last is 0.0)"
+      },
+      "action": {
+        "positions": "float[8] (last is gripper_cmd_sent in {0,1})",
+        "velocities": "float[8] (last is 0.0)"
+      },
+      "phase_index": "int (zero-based operator phase)",
+      "phase_prompt": "str (empty until annotated after collection)"
+    }
+  },
+  "phase_annotation": {
+    "needs_review": true,
+    "issues": [
+      "Frame 91: phase 3 -> 0; expected +1",
+      "Frame 177: phase 3 -> 0; expected +1"
+    ],
+    "segments": [
+      {
+        "phase_index": 0,
+        "start_frame": 0,
+        "frames": 15
+      },
+      {
+        "phase_index": 1,
+        "start_frame": 15,
+        "frames": 21
+      },
+      {
+        "phase_index": 2,
+        "start_frame": 36,
+        "frames": 33
+      },
+      {
+        "phase_index": 3,
+        "start_frame": 69,
+        "frames": 22
+      },
+      {
+        "phase_index": 0,
+        "start_frame": 91,
+        "frames": 10
+      },
+      {
+        "phase_index": 1,
+        "start_frame": 101,
+        "frames": 21
+      },
+      {
+        "phase_index": 2,
+        "start_frame": 122,
+        "frames": 33
+      },
+      {
+        "phase_index": 3,
+        "start_frame": 155,
+        "frames": 22
+      },
+      {
+        "phase_index": 0,
+        "start_frame": 177,
+        "frames": 8
+      },
+      {
+        "phase_index": 1,
+        "start_frame": 185,
+        "frames": 24
+      },
+      {
+        "phase_index": 2,
+        "start_frame": 209,
+        "frames": 32
+      },
+      {
+        "phase_index": 3,
+        "start_frame": 241,
+        "frames": 28
+      }
+    ],
+    "min_frames": 8
+  },
+  "valid": true,
+  "success": true,
+  "score": 1.0,
+  "episode_notes": null
+}
